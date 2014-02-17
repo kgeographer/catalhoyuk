@@ -1,0 +1,251 @@
+﻿{
+	"@context": {
+		"id": "@id",
+		"type": "@type",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"label": "rdfs:label",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"skos": "http://www.w3.org/2004/02/skos/core#",
+		"owl": "http://www.w3.org/2002/07/owl#",
+		"dc-elems": "http://purl.org/dc/elements/1.1/",
+		"dc-terms": "http://purl.org/dc/terms/",
+		"cidoc-crm": "http://www.cidoc-crm.org/cidoc-crm/",
+		"FeatureCollection": "http://geojson.org/geojson-spec.html#feature-collection-objects",
+		"Feature": "http://geovocab.org/spatial#Feature",
+//		"features": "oc-gen:geojson-hasfeatures",
+//		"properties": "oc-gen:geojson-hasproperties",
+		"geometry": "http://geovocab.org/geometry#geometry",
+		"Point": "http://geovocab.org/geometry#Point",
+		"Polygon": "http://geovocab.org/geometry#Polygon",
+		"var-1": {
+			"@id": "http://opencontext.org/predicates/56D8ADE0-1006-4177-866F-86644C1DC64F",
+			"label": "Element",
+			"@type": "@id"
+		},
+		// ...
+		"var-4": {
+			"@id": "http://opencontext.org/predicates/3FECE781-AD62-41E5-07BE-0C280FEACDB2",
+			"label": "Id #",
+			"@type": "xsd:string"
+		},
+		"link-3": {
+			"@id": "http://opencontext.org/predicates/E72975D0-07DF-4BD7-38F4-DB40E021349E",
+			"label": "Checked By",
+			"@type": "@id"
+		}
+	}, // end @context
+	"id": "http://opencontext.org/subjects/4D168E37-51A1-48A4-D82B-246D2346FCB1",
+	"label": "Bone 2061",
+	"uuid": "4D168E37-51A1-48A4-D82B-246D2346FCB1",
+	"oc-gen:type": [
+	  {
+			"@id": "http://opencontext.org/vocabularies/oc-general/cat-0015"
+	  }
+	],
+	"oc-gen:has-context-path": [
+		{ // path 01
+			"id": "#context-path-1",
+			"oc-gen:path-des": "default",
+			"oc-gen:has-path-items": [
+				 {
+					  "id": "http://opencontext.org/subjects/1_Global_Spatial",
+					  "label": "Turkey"
+				 },
+				 {
+					  "id": "http://opencontext.org/subjects/E44A115A-DFCB-4971-6750-40955DF2C062",
+					  "label": "Çatalhöyük"
+				 },
+				 {
+					  "id": "http://opencontext.org/subjects/A4D8DDA4-44C6-4EAE-4EF6-685BA2A3D7F6",
+					  "label": "Mound East"
+				 },
+				 {
+					  "id": "http://opencontext.org/subjects/845F877B-3A3F-4810-E6F3-C8D6FEA3AECA",
+					  "label": "Area TP"
+				 },
+				 {
+					  "id": "http://opencontext.org/subjects/BB9AFE18-2607-45A8-6673-08BCC3B428F4",
+					  "label": "Unit 6948"
+				 }
+			]
+		}
+	],
+	"oc-gen:has-obs": [
+	  { // obs-1
+			"id": "#obs-1",
+			"oc-gen:sourceID": "z_20_316e016d7",
+			"oc-gen:obsStatus": "active",
+			"var-1": [
+				 {
+					  "id": "http://opencontext.org/types/52749F46-93C3-4093-0BD9-B0563BF6E097",
+					  "label": "Metatarsal III+IV"
+				 }
+			],
+			"var-2": [
+				 {
+					  "id": "http://opencontext.org/types/B049F856-C287-4299-F5B7-661F22CE915E",
+					  "label": "Bos sp."
+				 }
+			],
+			"var-3": [
+				 {
+					  "id": "http://opencontext.org/types/7965A7B8-C0F2-41E3-9818-DD8AB3E6CD60",
+					  "label": "Left"
+				 }
+			],
+			"var-4": [
+				 {
+					  "id": "#string-4C462772-D716-4495-3C69-8FB154725794",
+					  "xsd:string": "6948.F42"
+				 }
+			],
+			"var-5": [
+				 "2013-12-30 00:00:00"
+			],
+			"var-6": [
+				 42
+			],
+			"var-7": [
+				 {
+					  "id": "http://opencontext.org/types/1401F569-C1F3-4CD2-5256-098DA527B0DE",
+					  "label": "dry sieved at 4 mm"
+				 }
+			],
+			// ...
+			"var-77": [
+				 "2006-06-28 00:00:00"
+			],
+			"link-1": [
+				 {
+					  "id": "http://opencontext.org/persons/FD2D702F-1EC6-4865-CCCC-DA8AF166CC83",
+					  "label": "Arek Marciniak"
+				 }
+			]
+	  }, // end obs-1
+	  { // obs-3
+			"id": "#obs-3",
+			"oc-gen:sourceID": "z_20_21dc12bfc",
+			"oc-gen:obsStatus": "active",
+			"var-78": [
+				 {
+					  "id": "http://opencontext.org/types/FDF462DC-C45F-4A3A-4B89-48260026D00B",
+					  "label": "9"
+				 }
+			],
+			"var-79": [
+				 27.8
+			],
+			"var-80": [
+				 25.7
+			],
+			"var-81": [
+				 44
+			],
+			"var-82": [
+				 27.8
+			],
+			"var-83": [
+				 37.8
+			],
+			"var-84": [
+				 44
+			],
+			"var-85": [
+				 {
+					  "id": "http://opencontext.org/types/F1EE2434-BDC7-48CE-15AA-CDC47EE5BC60",
+					  "label": "Kamilla Pawlowska"
+				 }
+			],
+			"var-86": [
+				 {
+					  "id": "http://opencontext.org/types/3ED7E8AE-5997-47E5-805D-82F76AA2ED23",
+					  "label": "Nerissa Russell"
+				 }
+			],
+			"link-2": [
+				 {
+					  "id": "http://opencontext.org/persons/C5F71C79-0395-4E6A-DFE9-52B2D5215113",
+					  "label": "Kamilla Pawlowska"
+				 }
+			],
+			"link-3": [
+				 {
+					  "id": "http://opencontext.org/persons/94AA8533-450D-4FC7-4DC1-3CB12A3FE52C",
+					  "label": "Nerissa Russell"
+				 }
+			]
+	  } // end obs-3
+	],
+	"oc-gen:locationRef": [
+	  {
+			"id": "http://opencontext.org/subjects/A4D8DDA4-44C6-4EAE-4EF6-685BA2A3D7F6",
+			"label": "Mound East"
+	  }
+	],
+	"oc-gen:chronoRef": [
+	  {
+			"id": "http://opencontext.org/subjects/845F877B-3A3F-4810-E6F3-C8D6FEA3AECA",
+			"label": "Area TP"
+	  }
+	],
+	"dc-terms:contributor": [
+	  { // contrib 01
+			"id": "http://opencontext.org/persons/FD2D702F-1EC6-4865-CCCC-DA8AF166CC83",
+			"label": "Arek Marciniak"
+	  },
+	  { // contrib 02
+			"id": "http://opencontext.org/persons/C5F71C79-0395-4E6A-DFE9-52B2D5215113",
+			"label": "Kamilla Pawlowska"
+	  }
+	],
+	"type": "FeatureCollection",
+	"features": [
+	  {
+			"id": "#geo-feature-1",
+			"type": "Feature",
+			"geometry": {
+				 "type": "Point",
+				 "id": "#geo-geometry-1",
+				 "coordinates": [
+					  32.827191,
+					  37.668196
+				 ]
+			},
+			"properties": {
+				 "id": "#geo-props-1",
+				 "oc-gen:geoReferenceType": "inferred",
+				 "oc-gen:locationRefLabel": "Mound East",
+				 "oc-gen:locationRef": "http://opencontext.org/subjects/A4D8DDA4-44C6-4EAE-4EF6-685BA2A3D7F6",
+				 "rdfs:comment": "Item location provided to best current knowledge with no intentional reduction in accuracy"
+			}
+	  }
+	],
+	"dc-terms:published": "2013-03-02 00:00:00",
+	"dc-terms:isPartOf": [
+	  {
+			"id": "http://opencontext.org/projects/02594C48-7497-40D7-11AE-AB942DC513B8"
+	  }
+	]
+	"@graph": [
+		{
+			"@id": "http://opencontext.org/predicates/56D8ADE0-1006-4177-866F-86644C1DC64F",
+			"skos:closeMatch": [
+				 {
+					  "@id": "http://opencontext.org/vocabularies/open-context-zooarch/zoo-0079",
+					  "label": "Has anatomical identification"
+				 }
+			]
+		},
+		// ...
+		{
+			"@id": "http://opencontext.org/predicates/7949DC4B-582C-40D5-EEF6-4C3D382D8241",
+			"skos:closeMatch": [
+				 {
+					  "@id": "http://purl.org/NET/biol/ns#term_hasTaxonomy",
+					  "label": "Has Biological Taxonomy"
+				 }
+			]
+		}
+	]
+}

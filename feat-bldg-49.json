@@ -1,0 +1,1220 @@
+﻿{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283197438,
+                        37.6676211379
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1494,
+                "type_id": 34,
+                "subtype_id": 39,
+                "type": "Post",
+                "subtype": "Post scar",
+                "year": 2006,
+                "description": "Post scar, mid way along N wall (F.1661) of building 49. The post has been robbed out (13662) during the closing of the house destroying much of the plastered sides and the front of the pillar. The fill of the post robbing pit contained numerous fragments of painted red plaster, presumably the debris created when the post was removed. It may therefore be possible that the pillar was decorated with red paint.",
+                "dimensions": "0.3m E/W x 0.2m N/S",
+                "location": "mid way along N wall of building and cutting through E edge of platform F1651",
+                "photo": false,
+                "name": "JLD",
+                "area": 4040,
+                "units": "{16677,13662,13661}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283260255,
+                        37.6676013178
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4002,
+                "type_id": 7,
+                "subtype_id": null,
+                "type": "Pit",
+                "subtype": null,
+                "year": 2008,
+                "description": "A small cut - scoop, contaınıng one fill (14455)",
+                "dimensions": "0.35m by 0.2m. Depth: 0.02m",
+                "location": "Central floors of B49",
+                "photo": true,
+                "name": "LF",
+                "area": 4040,
+                "units": "{14456,14455}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.828322618,
+                        37.6676040166
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4005,
+                "type_id": 7,
+                "subtype_id": null,
+                "type": "Pit",
+                "subtype": null,
+                "year": 2008,
+                "description": "Pıt cut wıth fıll (13601).",
+                "dimensions": "0.3m by 0.74m. Depth: 0.1m",
+                "location": "Central area of B49",
+                "photo": false,
+                "name": null,
+                "area": 4040,
+                "units": "{13602,13601}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282932732,
+                        37.6675940593
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4020,
+                "type_id": 7,
+                "subtype_id": null,
+                "type": "Pit",
+                "subtype": null,
+                "year": 2008,
+                "description": "Small scoop in sw corner of sw platform containing homogenous ashy gray fill, small obsidian fragments and animal bone.",
+                "dimensions": ".26m N-S x .24m E-W x .10m deep",
+                "location": "cut in SW corner of SW platform",
+                "photo": true,
+                "name": "CM",
+                "area": 4040,
+                "units": "{17406,17407}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282863269,
+                        37.6676066678
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4017,
+                "type_id": 33,
+                "subtype_id": 25,
+                "type": "Kerb",
+                "subtype": "Ridge",
+                "year": 2008,
+                "description": "A smaller mudbrick or coarse clay division possibly built in three courses but impossible to identify when excavating therefore taken down as one. The internal division was built after a platform in the NW corner had gone out use (this platform no longer visible,only some patchy plaster ups survive), therefore this is still a working interpretation. The internal division was sitting on F4016, another internal division coming off the south wall immediately west of F4007.\r\n\r\nThis is a division between the norhtern and southern areas Space 334.",
+                "dimensions": "length 0.86m, width 0.1m, height 0.3m",
+                "location": "Northern rim/ ledge of platform 4006, situated in W end of B49.",
+                "photo": true,
+                "name": "LF",
+                "area": 4040,
+                "units": "{16665}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282999111,
+                        37.6676166026
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1651,
+                "type_id": 8,
+                "subtype_id": null,
+                "type": "Platform",
+                "subtype": null,
+                "year": 2004,
+                "description": "Rectangular plastered platform joining with the north west walls.  There is a burned patch (no contact with the walls) which has left a black mark on the plastered suface.  In the center of the platform is a depression that slopes down towards the west wall.  The south east edges of the platform are also plastered and clearly defined and appear to go under the surface to the east (F.1664).\r\n\r\nUnexcavated in 2004.\r\n\r\nFrom Archive Report 2008: \r\nThe North-West platform (F.1651) was used to bury nine individuals, including both children and adults. The majority of  these skeletons were disturbed, including six which were headless. It is in this northern area  that the majority of the painted decoration was concentrated, and this may be in some way  associated with the burial process. All of the burials were tightly flexed and several of the  burials included grave goods. As with most of the houses excavated at the site, most of the  surfaces inside Building 49 appear to have been kept very clean during its use, and as a result few finds are recovered from stratified occupation deposits. \r\n\r\nPlease refer to Archive Report 2008, pgs 36-38 for detailed sequence of burials and platform modification.",
+                "dimensions": "1.37m EW x 1.22m NS x 0.24m",
+                "location": "north west corner",
+                "photo": true,
+                "name": "SHL",
+                "area": 4040,
+                "units": "{16651,16633,7927,14463,14424,14410,13668,17491,7983,17487,17486,16666,16667,17477,17476,17475,17418,17413,16693,16692,16690,16682,16680,16668,16657,16647}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282988166,
+                        37.6675994751
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1666,
+                "type_id": 8,
+                "subtype_id": null,
+                "type": "Platform",
+                "subtype": null,
+                "year": 2004,
+                "description": "UK 4/08/04\r\nThis feature is not excavated in 2004 (only fill within the rim 7950) because it is between phases other than existing features.  To date, we interpret this feature as a shallow basin or collapsed bin.  It consists of a presumably continuous retaining wall on the north, west and south sides,  Maximum preserved height of this wall in the NE is 19 cm.  The wall consists of a orange brick core with plaster.  It seems to be cut in the east and preceeds (goes under) the partition wall F.1659.  The surface under the bin fill 7950 looks similar to the surface in 1852 ane perhaps similar to the truncated surface (7944) over 1656.\r\n\r\nJLD 15/08/06\r\nThis feature number was used to describe a ?bin? In 2004 but has beenused in 2006 as the number for the repeatedly extended and cut back platform between the internal wall F1659 and the S wall F 1658. Several basins have been constructed upon (F1652) or cut through (F1497) the platform at various points, floors have been cut back (see truncated edges on plan 06/1212 and pits dug [13648].  Other unexcavated features are also visible such as a much earlier basin wall (F1498) and a large pit beneath pit [13648] visible in plan and section in truncated area.\r\nIt is possible that the truncated floors at the NE corner of the platform may represent another episdoe of hearth construction removed prior to 2006 (just an idea though, no proof!)\r\n1) Small square platform constructed, possibly as an extention to an earlier feature abutting the internal wall F1659.\r\n2) Several floor layers added and small basin constructed in NW corner\r\n3)Platform extended to the N, covering basin F1497, wall constructed along N edge of platform\r\n4) Platform extended to the E.\r\n5) Hearth cut into platform [14413]\r\n6) Hearth cut into platform [13645]\r\n\r\nFor reasons that escape me now we renumbered this platform F.4007 at some point during the 2006 excavation. In my final report I refer to the south platform as F.4007 throughout the sequence. It is one feature that undergoes extensive modification. DE 2010",
+                "dimensions": "1.10-1.65m EW x 1.10-1.30mNS",
+                "location": "SW quadrant near SW partition wall",
+                "photo": true,
+                "name": "UK",
+                "area": 4040,
+                "units": "{12691,13691,13678,13670,13660,13659,13652,13651,13650,13648,13647,13644,13616,13606,7950,14401,14402,14403,14406,14416,14457,14423}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283108441,
+                        37.6675958877
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1665,
+                "type_id": 3,
+                "subtype_id": 47,
+                "type": "Fire installation",
+                "subtype": "Hearth",
+                "year": 2004,
+                "description": "SHL 3/8/04\r\nUnexcavated in 2004; exact size and relationships TBD. \r\nSo far: fire installation ca 50 cm north of the south wall, flanked on all sides by mudbrick rim (possibly truncated, ca. 12 cm high and 10 cm wide). The interior (under 7948; named 7951 but not yet excavated) is hard-packed, red-bllack floor surface of the oven. \r\n\r\nNumerous phytoliths in interior (see samples for 7948).\r\n\r\nDE 18/08/06\r\nExcavated in 2006 season. Sub rectangular hearth or oven. Vertically truncated so unclear extent of original superstructure. At least two phases of hearth overlying each other with the earlier hearth largely truncated by the later hearth (DE 15/08/06)\r\n\r\nFS 1/9/08 \r\nIntercutting hearth pits in the SE corner of the building. 4 hearths were identified, most with scorched surfaces. Of note was hearth [17468] which had 3 small circular cuts in the corners of the square hearth cut, possibly for stakes/posts that may have supported some sort of vessel. These were backfilled during the next phase of hearth activity, cut [17465] and lining [17460].",
+                "dimensions": "1.00m EW x 0.90m NS",
+                "location": "near south wall, eastern area",
+                "photo": true,
+                "name": "UK, SHL",
+                "area": 4040,
+                "units": "{17462,7951,17468,14470,17460,17467,14412,17451,17437,17466,14413,17422,14411,13645,14407,14499,14405,14400,13638,13637,13636,13634,17465,13626,13625,17454,17459,17453,17464,17463}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283112425,
+                        37.6676197736
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4028,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2009,
+                "description": "Crouched neolithic burial of neonate/infant. Large quantities of pytoliths suggest the individual was buried within a basket or wrapped in textiles. A sheel associated with the burial had the remains of red pigment on the underside.",
+                "dimensions": "0.51m x 0.37m, 0.10 m deep",
+                "location": "under platform F.4025 (?)",
+                "photo": true,
+                "name": "DE",
+                "area": 4040,
+                "units": "{17939,17940,17938}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283011009,
+                        37.6675922679
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1652,
+                "type_id": 26,
+                "subtype_id": null,
+                "type": "Basin",
+                "subtype": null,
+                "year": 2004,
+                "description": "28/07/04  Large, roughly rectangular plaster and mudbrick feature originally 30 cm high.  It was originally thought to be a possible stepping platform or a large bin.  At the bottom of the feature, the profile shows that the entire feature is at a later level than the other features around it.  As well, the feature itself contains multiple phases, each a separate unit.  The northern most edge is a plastered rim that reaches to the bottom of the feature.  The eastern edge of this rim has been cut down until it is  only 5 cm high at the end.\r\n\r\n02/08/04  This feature upon excavated has been revealed to be a bin, with earlier and later phases under and around the bin.  The stratigraphy of this feature is rather complicated.  The feature extends on the western edge from the edge of feature 1659, and its eastern edge is the western edge of unit 7943.  The southern edge is the southern wall of space 100 (F. 1658), and the northern edge is the bin wall, unit 7963.  The feature contains the entirety of a bin, as well as two possible other bins as well as a possible unplastered surface or platform.\r\n\r\nThe earliest phase is represented by unit 7968,  which isn only a profile under the units 7966 and 7965.  This was a series of unplastered surfaces or possibly platforms that was joined by F.1666, which also are on top of this series of surfaces.  The elevation of surface 7960 is lower than the elevation of 7968, and so  cuts into the surfaces, but on the souther wall of space 100 behind unit 7960, there is scaring in the plaster showing that the surfaces went into the wall in some way. Because other features are on top of this surface, it is not excavated and it cannot be well understood.  \r\n\r\nThe second phase is represented by unit 7966, which is a single plaster block.  This block may have been an earlier bin, but the rest of the bin is now missing or not yet excavated.  This has been interpreted as the second phase as it is above the phase apparent in 7968, but the north and south sides of this unit have been cut y units 7965 and 7964.  It is clear that it is not a part of the later bin, as the ends of the unit are cut by the bin and the construction of the plaster block is quite different than that of the other, later bin to be discussed below.  The western wall of the later bin may have rested on this unit as well.\r\n\r\nThe third phase is the main bin of feature 1652.  This consists of units 7952, 7955 and 7961 as the fill of the bin, and features 7959, 7960, 7963 and 7964 as the remaining floors and walls of the bin.  Units 7963 and 7964 are the walls of the  unit, but were cut from on another, perhaps by the next phase, discussed below.  The eastern end of 7963 has been truncated down to the level of the surface 7959.  It is possible that once, the wall went all around the entire bin at the same elevation and has since been truncated.  However, there is no scar in the southern wall of space 100 where 7963 would have hit the southern wall to indicate its absence, so it is also possible that the eastern end of the bin was in fact a small plastered platform or surface abuting the bin.  Surface 7959 is a nicely plastered surface, while the surface of 7960 has a much thinner plastered surface and is 2-3 cm below that of 7959.  In excavation, these two surfaces were divided by a thin plaster line, which may have been the eastern wall of the bin, or maybe a dividing wall of the bin.  The line was removed during excavation to discover the relationship between the two surfaces better.  There was again no scaring in the souther wall of space 100 to indicate its absence, so the purpose of the line is still somewhat unclear.  \r\n\r\nThe fourth and final visible phase in feature 1652 is represented by unit 7965.  This unit is a dividing wall, possibly the wall of the bin in F.1666.  This unit cuts the northern end of unit 7966, as well as the eastern end of 7963. \r\n\r\nJLD 14/08/06\r\nThis feature appears to be at least two bins or basins which were repeatedly destroyed / collapsed and remodelled throughout their use life. The earliest construction is a small narrow feature (13655. 13656) along the E. edge of platform F1666 (from which a horn core was recovered in 2004). This was leter added to creating a large double bin.\r\nEventually the height was built up to apporimately 38cm and a final layer of plaster was applied creating a concave bottomed basin.This plaster layer was alluded to in the 2004 archive and was also visible as a faint sloping scar on the plastered south wall (F.1658).\r\nAt some point the bin walls were demolised or collapsed and a pit [13648] was dug through the walls to either retrieve a much earlier cache or to access a pit cut into platform F1666 (visible in plan within truncated area). The later phases of construction then occurred as numerous dumps, irregular layers of different coloured silty clays and plaster.\r\nThe function of the layers (13622, 13623, 13620) infilling the gap between the W wall and the internal wall and the wooden post (13628) is uncertain but slight traces of plaster may hint that this was a third basin-like structure.\r\nThese basins were all constructed fairly late in the lifetime of the house.",
+                "dimensions": "1.18m x 0.53m x 0.25m",
+                "location": "South Central Wall, built on platform F.1666",
+                "photo": true,
+                "name": "SLS",
+                "area": 4040,
+                "units": "{12695,13617,13620,13621,13622,7952,13623,13624,13627,13628,13630,13631,13633,13635,13639,13642,13643,13646,13653,13655,13656,13657,13658,7955,7968,7967,7966,7965,7964,7963,7961,7960,7959,12696}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282829175,
+                        37.6676102678
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1657,
+                "type_id": 9,
+                "subtype_id": null,
+                "type": "Wall",
+                "subtype": null,
+                "year": 2004,
+                "description": "West wall is both plastered and unplastered. The NW section has thin traces of plaster with dark grey color (paint or smoke?) while the SW section is unplastered and traces of brick and mortar are visible.  In 2003, a Byzantine or Roman grave was excavated that had cut through the west wall near the south.\r\n\r\nUnexcavated in 2004",
+                "dimensions": "0.31m EW x 2.81m NS x 1.10m",
+                "location": "West wall",
+                "photo": true,
+                "name": "SHL, UK",
+                "area": 4040,
+                "units": "{13695,13694,17933}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282954082,
+                        37.6676021739
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1497,
+                "type_id": 26,
+                "subtype_id": null,
+                "type": "Basin",
+                "subtype": null,
+                "year": 2006,
+                "description": "Plaster basin against wall F1659. sealrd by 13670, a northern extention to platform F1666. Latest plaster  layer13683 and constructoin make up 13687 were removed to reveal an earlier phase of basin, which is unexcavated at end of 2006 season.",
+                "dimensions": "N-S: 0.46m, E-W: 0.54m, Depth: 0.21m",
+                "location": "Against wall F1659",
+                "photo": true,
+                "name": "DE",
+                "area": 4040,
+                "units": "{13687,13683,14436,14435,14431}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.828292015,
+                        37.667598564
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1498,
+                "type_id": 26,
+                "subtype_id": null,
+                "type": "Basin",
+                "subtype": null,
+                "year": 2006,
+                "description": "This feature is just a slight depresion or curve in the plaster on internal wall F1659. It was only when basin F1497 was excavated directly to the north that I realised the curve represented the back of a similar, earlier, basin. \r\nThis basin obviously fell out of use and was turned into part of the surrounding platform. The feature was filled by a series of floors (13678).",
+                "dimensions": "diameter at least 0.50m",
+                "location": "against internal wall F1654",
+                "photo": true,
+                "name": null,
+                "area": 4040,
+                "units": "{10186}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283189371,
+                        37.6676264546
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4012,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "Neonate burial in NE platform F.1664, adjecent to NW platform, underneath platform lip. Neonate was disturbed by animal burrows in SE edge of cut.",
+                "dimensions": "N-S: 0.28m, E-W: 0.38m, depth: 0.12m",
+                "location": "western extent of NE platform 1664",
+                "photo": true,
+                "name": null,
+                "area": 4040,
+                "units": "{16624,16628,16627}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283074465,
+                        37.6667080621
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1492,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2006,
+                "description": "Burial within central platform F.1656 sealed beneath floor (13604).\r\nThe grave is relatively shallow.\r\nSkeleton in good condition with the exception of the lower R ribs which were disturbed by an animal burrow.\r\nThe body had all limbs including the scapula and clavicle removed prior to interment.",
+                "dimensions": "0.76M N/S 0.56M E/W 0.25M deep",
+                "location": "Beneath floor (13604) within platform F.1656",
+                "photo": true,
+                "name": "JLD",
+                "area": 4040,
+                "units": "{13607,13608,13609}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283214822,
+                        37.6676045553
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1663,
+                "type_id": 4,
+                "subtype_id": null,
+                "type": "Floor",
+                "subtype": null,
+                "year": 2004,
+                "description": "SHL 3/8/04\r\nThis is an unplastered surface, quite possibly a truncated floor.  It is possible that the level of excavation in 2004 is not at the actual floor surface, but the surface is more-or-less homoeneous and is abutted by features on all sides.  In the northwest section of this feature, an underlying plastered surface began to appear, which leads us to assume that this floor level was contemporaty with the final phase of occupation in this space.\r\n\r\nUnexcavated in 2004",
+                "dimensions": "200 x 153 cm",
+                "location": "along west wall, into central space",
+                "photo": true,
+                "name": "SHL, UK",
+                "area": 4040,
+                "units": "{13615,7980,13649,13629,13614,13605}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283271263,
+                        37.6676157401
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1664,
+                "type_id": 8,
+                "subtype_id": null,
+                "type": "Platform",
+                "subtype": null,
+                "year": 2004,
+                "description": "SHL 3/8/04\r\nThis is a truncated surface, defined on the south side by a rim and is slightly elevated above the floor (F.1663).  The surface was cut into during excavation (U.7926, U.7941).  It looks as if this might be a later surface than the platform (F.1651) because the surface is over the plaster.  The full extent of this cannot determined at this stage.  On the east side there appears to be a cut in the surface, which is composed of a different soil matrix than the surrounding surface.  Bones are present in this deposit but if they are human or animal has not yet been determined.  This cut may also be connected with the cut in the east wall (U.7945) but this relationship is also unconfirmed. It also appears that this surface is contemporary with F. 1663 based on the composition of the surfaces.  The north wall above this surface is thickly plastered.\r\n\r\nUnexcavated in 2004",
+                "dimensions": "143 x 118 x 12 cm",
+                "location": "northeast corner",
+                "photo": true,
+                "name": "SHL",
+                "area": 4040,
+                "units": "{16620,16621,16636,17402,14488,14490,16628,16630,14487,14483,16631,14409,16632,16633,13686,17417,16619,16634,16635,7982}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283112497,
+                        37.6676166188
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4025,
+                "type_id": 8,
+                "subtype_id": null,
+                "type": "Platform",
+                "subtype": null,
+                "year": 2008,
+                "description": "Primary bench structure spanning northern part of the room, below F1651 and F1664. \r\n\r\nIt later gets split by the addition of a curb structure (17453) to form the NW platform F1651 and the NE platform F1664.\r\n\r\nOnly one burial clearly associated with this structure - burial F4023 in the NW which clearly truncated the primary make-up (although the same was probably true or at least one of those in the NE platform. \r\n\r\n.",
+                "dimensions": "3.3m E-W x 1.26m N-S",
+                "location": "Northern platform of B49",
+                "photo": true,
+                "name": null,
+                "area": 4040,
+                "units": "{17496,17498,17482,17495}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.828320385,
+                        37.6675886904
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4026,
+                "type_id": 8,
+                "subtype_id": null,
+                "type": "Platform",
+                "subtype": null,
+                "year": 2008,
+                "description": "Small platform in very SE corner of building 49, associated with ladder access. The platform later becomes larger, incorporating earlier bench F1653 and F4026 to become F1662.",
+                "dimensions": "0.65m E-W x 0.60m N-S",
+                "location": "SE corner of B49, space 335",
+                "photo": true,
+                "name": null,
+                "area": 4040,
+                "units": "{17482,17484,17490,17488,17483}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283095446,
+                        37.6676184192
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4023,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "Crouched infant burial with significant grave gooods. Painted shells, bone spatula, blue pigment, organics (pouch?), stone bead anklet, shell bead necklace, copper bead and twine necklace and textile preservation. \r\n\r\nPhytolith matting and lining. \r\n\r\nClear from cut and truncation of phytolith matting that this was the earliest burial in B49. \r\n\r\nClearly cut make-up and primary floor on earliest platform !! (17496)\r\nSealed by make-up for next floor (17495)",
+                "dimensions": "0.9 E-W x 0.3 N-S",
+                "location": "NW platform of B49. F.4025",
+                "photo": false,
+                "name": "JST",
+                "area": 4040,
+                "units": "{17456,17457,17458}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283089861,
+                        37.6676148129
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4022,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "Crouched juvenile inhumation, missing head due to truncation, \r\n\r\nOriented east-west. \r\n\r\nPart of lower burial sequence cutting NW patform in sp 335. \r\n\r\nRelationship found cutting make-up 17475 sealed by overlying plaster surfacce 17418.",
+                "dimensions": "c. 0.65m E-W x 0.40m N-S x 0.04m",
+                "location": "NW platform of B49. F.1651",
+                "photo": true,
+                "name": null,
+                "area": 4040,
+                "units": "{17415,17414,16698}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283044796,
+                        37.6676021874
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1654,
+                "type_id": 9,
+                "subtype_id": null,
+                "type": "Wall",
+                "subtype": null,
+                "year": 2004,
+                "description": "A plastered 'partition wall' is attached to the north wall, near the west corner.  To the east, there is a plastered platform (F. 1656)  that looks like it joins.  To the west (i.e. On the inside of the wall) there was no plastered surface or an obvious floor (U.7954, 7971) and the deposits are completely different, which suggests that this wall did seperate two different areas.  The bottom of the wall, on the west side, was unresolved, although it would appear as if there is a connecting plaster line on the current ground level that connects this partition wall with a similar one on the south wall.  However, this realtionship is unconfirmed.  U.7976 is the vertical plaster that appears to conect the partition wall with some upright post- pillar- or vertical support.\r\nUnexcavated in 2004\r\n\r\nFully excavated Sep 2008. SF\r\nThis partition had the appearance of a bench but more than likely functioned as a partition which was constructed at the start of the building's life and continued throughout occupation sequence with modifications. \r\n\r\nThe initial construction of mudbrick (17917) and mortar (17918) stood two clear courses high,  c. 025m high, 1.00m in length (up to truncation by animal burrow and brick width, 0.4m wide.  Constructed over the final levelling / make (17914) up in building below.\r\n\r\nAn upright (F.4004 was then added to the northern end against wall F.1655) on the eastern edge of the partition, so a narrow upright half width of partition. This was some 0.2m wide and 0.3m in length formed with bricks on edge. It seems that this upright was built against a shallow, earlier engaged pilaster formed of mortar but no associated plaster use was found. F.4004 could therefore be a modification to an earlier engaged pilaster\r\n\r\nA fragmented layer of bricks was then added, clearly abutting  upright F.4004. \r\n\r\n\r\nA third course may have been truncated as evidenced by fragments of overlying brick. The partition and upright  was rendered on its surface and  sides by a thick blocky mortar (17920) and then the initial plaster render (17904) around the upright and across the partition in very patchy cover.\r\n\r\nWhilst it lay in alignment with a shallow brick partion to the south (F1659, (17915)), which was also  laid at the initial layout of the building, the two constructions were different the southern division (17915) was a single course in depth and served as a kerb rather than a patrition with a superstructure (is this true in later sequence?), the two features were cut by an large animal burrow so a relationship was not gleaned. SF 12/07/09",
+                "dimensions": "0.91m x 0.29m x 0.61m",
+                "location": "near NW corner, partition",
+                "photo": true,
+                "name": "SHL",
+                "area": 4040,
+                "units": "{7972,7971,7973,7976,13698,14443,14444,14445,17917,17918}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282931059,
+                        37.6676174938
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1655,
+                "type_id": 9,
+                "subtype_id": null,
+                "type": "Wall",
+                "subtype": null,
+                "year": 2004,
+                "description": "Thinly plastered wall to the west of the partition wall (F.1654) and thickly plastered (up to 7 cm) on the east side.  Traces of grey can be seen on the plastered face on both sides of the partition.  East of the partition is a vertical scar of plaster, which looks as if it once wrapped around an upright support.  This vertical plaster is also present on F. 1654 and could equally be a part of the short, northern east wall F. 1661.  Curiously, the wall plaster behind the scars is rather thick.\r\n\r\nUnexcavated in 2004\r\n\r\nIn 2008, it became apparent that some layers of the wall plaster were in fact painted. Unit 16654 composed plaster decorated with red and black geometric designs.\r\n\r\nChanged from wall to post scar 04/12/2009. WHY? Changed back to a wall 22/06/2010 DE.",
+                "dimensions": "1.51m x 1.10m  x 0.30m",
+                "location": "NW corner of building",
+                "photo": true,
+                "name": "SHL, UK",
+                "area": 4040,
+                "units": "{7975,7974,17934,7976,14418,17921,17497,16654,14465}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282999731,
+                        37.6675895619
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1658,
+                "type_id": 9,
+                "subtype_id": null,
+                "type": "Wall",
+                "subtype": null,
+                "year": 2004,
+                "description": "This is the southern wall of space 100.  It has a thick layer of plaster from the east corner to the partition wall, but none beyond that (in the SW corner).  This is a double wall with space 229- which has conviently cracked down the middle by the end of this excavation season.\r\n\r\nUnexcavated in 2004",
+                "dimensions": "4.40m EW x 0.32m NS x 0.93m",
+                "location": "south wall",
+                "photo": true,
+                "name": "SHL",
+                "area": 4040,
+                "units": "{14448,13696,14453,14450,14458,14419,14484,7977,14442,17931,14451,13697}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282929342,
+                        37.6675933372
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1659,
+                "type_id": 9,
+                "subtype_id": null,
+                "type": "Wall",
+                "subtype": null,
+                "year": 2004,
+                "description": "This feature is a plastered partition wall that joins with the south wall and extends out to the north.  It looks as if there is a north-south plaster line at the current level of excavation that connects to the partition wall on the northwest wall (F. 1654).  This wall is only plastered on the east face.  On the unplastered west face there is a black line that appears to be at the base of its construction because the line is at the same level on the east face.  From this I assume that the partition wall is later than the deposits underneath, which are distinctly different.  It also looks as if this partition wall has cut through F.1652 because the bin walls abruptly end but the determing unit (U.7968) has been left unexcavated.\r\n\r\nUnexcavated in 2004\r\n\r\nExcavated in 2008 by DE, CM, and LF.  The partition wall was excavated, revealing a plaster post-like structure (14454) that had red paint applied.  This post was built over the edge of platform f. 1666.\r\n\r\nInternal wall comprised of several different layers of make up. Wall was heavily degraded and ephemeral at best, after several seasons of exposure and conservation.\r\n\r\nIt is also possible that this feature represents part of a large bin, rarther than an internal division.",
+                "dimensions": "0.18m x 0.47m x 0.72",
+                "location": "south west section of south wall",
+                "photo": true,
+                "name": "DE",
+                "area": 4040,
+                "units": "{7969,14454,14457,14442,7965,14425}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283314628,
+                        37.6676036686
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1660,
+                "type_id": 9,
+                "subtype_id": null,
+                "type": "Wall",
+                "subtype": null,
+                "year": 2004,
+                "description": "UK 4/08/04\r\nThis is a mud brick wall with plaster facing the inside (west) face.  Outside is unexcavated due to abutting parallel wall in Building 48 (the west wall).  Plaster is between 3-7 cm thick and is completely worn off in some places.  The wall is truncated in the NE corner by a large cut (or two)- U. 7945.  This feature is cut into the wall (F.1660) over plinth F.1653 is a large posthole cut into the wall.\r\n\r\nUnexcavated in 2004",
+                "dimensions": "0.30m EW x 3.99m NS x 0.63m",
+                "location": "east wall",
+                "photo": true,
+                "name": "UK",
+                "area": 4040,
+                "units": "{14434,7978,17930,13613,16658,14415,16678}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283157652,
+                        37.6676252783
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1661,
+                "type_id": 9,
+                "subtype_id": null,
+                "type": "Wall",
+                "subtype": null,
+                "year": 2004,
+                "description": "UK 4/08/04\r\nMain north wall with west jog.  This wall surrounds the northern and western part of the central area of space 100.  This feature is unexcavated in 2004 so the measurements are preliminary.  Brick are mud brick and the interior is covered with up to 7 cm of plaster layers.  No plaster is visible on the outside (north face) of this wall (still unexcavated).  Althought 1661 turns a corner (NS-EW), I have kept it as one feature number.  The southern most corner of the wall ends in a posthole scar (7976) which connects it to the partition wall F. 1654.  This posthole scar might be associated either with F. 1655 OR 1661 (see data sheet for F. 1665). Another posthole cuts into the wall plaster in the cental morth face but has o unit number yet.",
+                "dimensions": "315 x 30 x 66 + 30 x 116 x 66",
+                "location": "north wall",
+                "photo": true,
+                "name": "UK",
+                "area": 4040,
+                "units": "{13669,17494,16677,16622,7979,13666,17929,13667,16694}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283237287,
+                        37.6676139325
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4013,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "This burial cuts into platform floors 16636. It  is cut by burial 4011.",
+                "dimensions": "0.6m / 0.36m/ depth 0.3m",
+                "location": "NE corner of space 335  in platform F1664",
+                "photo": true,
+                "name": "LF",
+                "area": 4040,
+                "units": "{16637,16639,16638}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283067,
+                        37.6676228313
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4009,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "Early burial truncated by later burial F.4000; associated bones found in the later grave's fill (14459). No cranium found, the only bones in situ were the legs and pelvis, very tight against the burial cut.",
+                "dimensions": "0.33M N-S x 0.33M E-W x 0.25M deep",
+                "location": "NW Platform of Building 49",
+                "photo": true,
+                "name": "CM",
+                "area": 4040,
+                "units": "{14480,14438,14481}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283305365,
+                        37.6676121402
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1493,
+                "type_id": 34,
+                "subtype_id": 39,
+                "type": "Post",
+                "subtype": "Post scar",
+                "year": 2006,
+                "description": "Sub-circular post retrieval pit. Plaster on wall F1660 lips up around where the plastered post would have stood. The impression of a square timber is visible in the base of the cut.\r\nPit was filled by plaster and crushed mudbrick building fill. Plaster was clearly originally from around the timber.\r\nA burnt stone in the base of the cut may have been a remnant of packing. A horn core, horse skull and cattle radius were all dumped in the fill, near the top of the cut.\r\nThe post was not structural as no post was present on the facing western wall.",
+                "dimensions": "N-S: 0.80m, E-W: 0.43m, Depth:0.49m",
+                "location": "NE corner of space 100",
+                "photo": true,
+                "name": "DE",
+                "area": 4040,
+                "units": "{13641,13640,16677,17909}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282976952,
+                        37.6675940656
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4018,
+                "type_id": 7,
+                "subtype_id": null,
+                "type": "Pit",
+                "subtype": null,
+                "year": 2008,
+                "description": "a small shallow pıt (cache?) wıth one small stone (w polıshed sıdes) ın the fill. Possibly a robbed out cache?",
+                "dimensions": "0.25m x 0.3m, depth 0.07m",
+                "location": "platform F4007 B 49 space 335",
+                "photo": true,
+                "name": "LF",
+                "area": 4040,
+                "units": "{16688,16687}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283134908,
+                        37.6676283396
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4019,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "Burial cut in NW platform, truncated by two later burials. Contained both feet and a single finger bone. Feet were articulated (???), but the rest of the skeleton had been taken away by later truncations. Could possibly be associated with semi articulated bones at the bottom of cut F400, but it is difficult to make an absolute determination",
+                "dimensions": "N-S: 0.76, E-W: 0/60m, Depth: 0.33m",
+                "location": "NW platform F.1651",
+                "photo": true,
+                "name": "CM",
+                "area": 4040,
+                "units": "{17412,16699,17410,17404,17403}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283087478,
+                        37.6676198599
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4000,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "Large burial cut into platform f. 1651 containing young woman and baby.  Possibly associationed with the baby was a greenstone axe.  The cut was well-defined and contained the disarticulated remains (fingers, primarily) of earlier graves that the cut intruded upon.  The bottom of the cut was unclear and contained articulated and disarticulated remains of earlier burials.",
+                "dimensions": ".76m N-S x .73m E-W x .46m deep",
+                "location": "Cut into center of NW platform",
+                "photo": true,
+                "name": "CM",
+                "area": 4040,
+                "units": "{14437,14441,14440,14429}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283280805,
+                        37.6675953715
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1496,
+                "type_id": 34,
+                "subtype_id": 39,
+                "type": "Post",
+                "subtype": "Post scar",
+                "year": 2006,
+                "description": "Post scar - post constructed mid way along E wall F 1660. This occurred prior to the construction of platform F1662 and therefore also pedestal F1653.\r\nOnly the post retrieval pit was excavated in 2006 as this was a final event in the life of the house.\r\nThe pit fill was roughly oval in plan, tapering towards the base.\r\n\r\nFully excavated sept 2009. SF\r\nThis post emplacement appears to have been in use throughout the house sequence and through all the remodelling of the associated features at its base.\r\n\r\nAt the earliest phase it was associated with a bench F.1653. The mortar packing around the post (17927) was similar to the bench rendering (17901) and both successively plastered throughout use.\r\n\r\nThe bench then went through various incarnations (see above) but the post remained extant.\r\n\r\nPrior to construction of bench F.1653 there was a post (see cut (17924) and fills) in the same location which appears to have been a construction event. SF 12/07/09",
+                "dimensions": "0.32M x 0.26M x approx 0.65M",
+                "location": "mid way along eastern wall F1660",
+                "photo": false,
+                "name": "JLD",
+                "area": 4040,
+                "units": "{13671,17926,17924,17927,17923,17925,13672}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282976889,
+                        37.6675967699
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4007,
+                "type_id": 8,
+                "subtype_id": null,
+                "type": "Platform",
+                "subtype": null,
+                "year": 2008,
+                "description": "Truncated platform, central on the south wall of building 49. A new feature number was given to this platform since the feature number for the later bin had probably been used for this area even though the bin has been removed. It was decided to give new feature number when reachng a new phase in the building = space 335. some dirty floors  ımmedıately west of the platform have been ascribed to this platform, but were really just abutting it.\r\n\r\nFor reasons that escape me now we renumbered this platform F.1666 was renumbered F.4007 at some point during the 2006 excavation. In my final report I refer to the south platform as F.4007 throughout the sequence. It is one feature that undergoes extensive modification. DE 2010\r\n\r\nMany dirty floors and several plaster basins associated with this platform. Possible activity / food preperation area?",
+                "dimensions": "E-W 1.1m, N-S 1.4m",
+                "location": "South end of space 335",
+                "photo": true,
+                "name": null,
+                "area": 4040,
+                "units": "{16662,16604,17400,17406,17407,17409,17411,17416,17421,17426,16648,14497,14496,14495,14491,14479,14478,14474,14472,14469,14468,14467,14466,14464,16691,16686,16664}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283260318,
+                        37.6675986135
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1662,
+                "type_id": 8,
+                "subtype_id": null,
+                "type": "Platform",
+                "subtype": null,
+                "year": 2003,
+                "description": "\r\n3/8/04 by UK\r\n\r\nUnexcavated in 2004.\r\n\r\nInterpretation so far: bench or raised platform, truncated on west side. Layers of plaster visible on the feature indicate several phases, the first of which is smaller and further south. This phase is built up against the plaster of the south wall (F 1660). Later the feature was extended northwards, and a lip built up against the east wall (see sketch; photo).\r\nUnclear relationship with floor 1663 - due to unfinished excavation.\r\n\r\nFurther interpretation warrants further excavation.\r\n\r\n1/9/08 by FS\r\n\r\nN-S platform in very SE corner o building. As such probably associated with the ladder. The p;latform incorporates earlier bench F1653.",
+                "dimensions": "1.25m NS x 0.70m EW",
+                "location": "SE corner of building",
+                "photo": true,
+                "name": "UK",
+                "area": 4040,
+                "units": "{14422,17424,16685,16684,17474,17479,17489,16683,16656,16655,13688,13682,14433,14430,14428,17405,17473,17472,17401,13611,13612}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283267162,
+                        37.6675968122
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1653,
+                "type_id": 1,
+                "subtype_id": null,
+                "type": "Bench",
+                "subtype": null,
+                "year": 2004,
+                "description": "SHL 4/08/04 \r\nPlastered plinth at the bottom end of a post hole (?) and vertical plaster in the center of east wall.   May or may not be associated with the cluster of plastered horn cores (U.7920).  The F.1663 floor appears to be over (or later) than the plinth, as the plastered surface appears to extend under the current floor surface.  This feature is clearly attached to the east wall and has vertical plaster an an unplastered circular hole cut into the wall. To the south is a later bench (F.1662), as it lips over the plastered plinth.  No indication of attachments to the plinth were found.\r\nUnexcavated in 2004\r\n\r\nJLD 15/08/06\r\nSmall pedestal or plith constructed against engagaed pillar F.1496. The top two plasttered layers were decorated with a stripe of red paint around the base of the engaged pillar (see sketch on feature sheet). In the latest phase (13674) there are also traces of red paint  along the southern edge of the pedestal suggestin it may originally have been completely red around the sides.\r\nDuring an earlier phase both the pedestal and platform F1662 were the same structure and extended a further 18cm out into the room (see sketch sheet 2) and were cut back, perhaps to create more space for the oven.\r\nThe small pedestal remaining was then continually added to as it became worn and as more floors were added to both platform F1666 and central floor area F1663.\r\n\r\nFrom Archive Report 2008:\r\nThe northern end of platform F.1662 was raised slightly, forming a small bench, F.1653,  which was plastered with (17481). Both platform and bench were sealed by mid brown make  up (17474) and repeatedly re-plastered with white clay plaster (17473), (17472), (17424),  (17405) and (17401). This constant re-plastering of F.1662 and F.1653 continues throughout  the buildings use,\r\n\r\nFully excavated sept 2008. SF\r\nThis feature has been described as a small plinth but at its construction inception appears to be more like a bench. Formed of a single, re used brick (17915) it was rendered in  mortar (17901), similar to the mortar packing (17927) around post F.1496 and then successivly plastered.\r\nSF 12/07/09",
+                "dimensions": "c. 1.00m x 0.32m x 0.16m",
+                "location": "East wall",
+                "photo": true,
+                "name": "UK, SHL",
+                "area": 4040,
+                "units": "{13679,13619,13613,13680,13681,16653,16656,16683,17405,17481,17482,13674,13677,17916,17907}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283033024,
+                        37.6676211136
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1491,
+                "type_id": 9,
+                "subtype_id": null,
+                "type": "Wall",
+                "subtype": null,
+                "year": 2006,
+                "description": "Wall in NW corner of B.49, Sp.100. Runs N-S and forms part of \"dog-leg\" in this corner of the building. Covered in painted plaster (13676) with vertical red black designs.",
+                "dimensions": null,
+                "location": "NW extent of space 100",
+                "photo": true,
+                "name": "DE",
+                "area": 4040,
+                "units": "{17494,17932,13675,13676,16695}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282885949,
+                        37.6676066714
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4010,
+                "type_id": 26,
+                "subtype_id": null,
+                "type": "Basin",
+                "subtype": null,
+                "year": 2008,
+                "description": "A smaller plaster with quern stone placed in it situated in the western part of building 49. Activity taking place on top of earlier platform F4008?\r\n\r\nFrom Archive 2008:\r\nIn the north western corner of the building, set into platform F.4008, plaster basin F.4010 consisted of several phases of use. The earliest basin, (16645), measured 0.45m by 0.40m and had an sub-rectangular grinding stone set in thin layer of mid brown silty clay’ (16673)’ on its the southern side. This was sealed a second basin constructed of grey brown sandy silt (16644) and plaster (16643). This was in turn sealed by brown clay silt (14485), possibly associated with a later, truncated phase of use. A series of dirty, ash rich, floors (16670) to the south of F.4010 appear to be associated with the activities conducted in this part of the building. Basin F.4010 was sealed by a mixed dump of mudbrick and building material (14482), intended to raise the level of the platform.",
+                "dimensions": "length 0.6m, width 0.45m, depth 0.03m",
+                "location": "western division in building 49, space 335.",
+                "photo": true,
+                "name": "LF",
+                "area": 4040,
+                "units": "{14485,16643,16644,16673,16645}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8282994371,
+                        37.6676252541
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 1495,
+                "type_id": 25,
+                "subtype_id": null,
+                "type": "Bin",
+                "subtype": null,
+                "year": 2006,
+                "description": "Post scar situated at the eastermost corner of wall F.1666 abutting internal wall F.1654. The post would have been quite large and rectangular compared with others in the building (F.1494, F.1496 And F.1493.\r\nFurther excavation by DE revealed that this feature is unlikely to be an engaged pillar and is more likely to be a tall narrow bin.\r\nThe feature was repeatedly plastered on both the inside and outside and traces of red paint were also found. The base was also plastered on more than one occasion and there is no evidence of a post-pit or scarring on the wall.)\r\n\r\nThis 'bin' was renumbered as F4004",
+                "dimensions": null,
+                "location": "Abutting eastern corner of wall F1665",
+                "photo": false,
+                "name": "JLD",
+                "area": 4040,
+                "units": "{13692,13664,13698,13665}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283210028,
+                        37.6676160019
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4015,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "This burial truncates platform surface 17402, which is the earliest plaster asscoiated with platform F.1664. This feature is as follows:  A sub-circular grave cut (16661) contained the flexed skeleton of a child (16660). The grave was filled by mid brown silty clay (16659). \r\nThis burial F4015 was sealed by a layer of white plaster (16636).",
+                "dimensions": "0.55m x 0.38m Depth 0.4m",
+                "location": "NE corner of space 335  in platform F1664",
+                "photo": true,
+                "name": "LF",
+                "area": 4040,
+                "units": "{16660,16659,16661}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283249724,
+                        37.6676155567
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4011,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "Tightly flexed skeleton inside a small burial pit within platform F1664. Skeleton is jeuvenile and was found with a few beads close to the neck.",
+                "dimensions": "N-S: 0.60, E-W: 0.63m, Depth: 0.20m",
+                "location": "In NE platform F1664",
+                "photo": true,
+                "name": "CM",
+                "area": 4040,
+                "units": "{16600,16601,16602}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283300734,
+                        37.6676160153
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4014,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "This burial (F4014) truncates floors 16636 in platform F1664. This is a later burial than 4015. \r\nThis burial (F4014) consists of grave cut (16642), the crouched interment of a child (16641) and mid brown fill (16640).",
+                "dimensions": "0.47m x 0.34m, depth: 0.24m",
+                "location": "NE corner of space 335  in platform F1664",
+                "photo": true,
+                "name": "LF",
+                "area": 4040,
+                "units": "{16640,16642,16641}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283100995,
+                        37.6676238277
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4024,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "Adult burial in NW platform, part of lower burial sequence, clearly trucating platform floor.",
+                "dimensions": "0.9m E-W x 0.5m N-S x 0.68m",
+                "location": "NW platform of B49. F.1651",
+                "photo": false,
+                "name": null,
+                "area": 4040,
+                "units": "{17485,17480,17486}"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.8283094268,
+                        37.6676204013
+                    ]
+                ]
+            },
+            "properties": {
+                "fid": 4021,
+                "type_id": 2,
+                "subtype_id": null,
+                "type": "Burial",
+                "subtype": null,
+                "year": 2008,
+                "description": "Part of lower burial sequence, cutting NW platform in space 335. \r\n\r\nIncluded adult skeleton 16697 and disturbed torso 17412 oriented broadly east-west.",
+                "dimensions": "c. 075m long x 0.55m N-S, depth unknown due to truncation",
+                "location": "NW platform F.1651",
+                "photo": true,
+                "name": "LDH",
+                "area": 4040,
+                "units": "{16697,14459,17413}"
+            }
+        }
+    ]
+}
