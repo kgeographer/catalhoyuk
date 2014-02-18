@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.828381527,
+                        37.667331357,
+                        1011.32
+                    ]
+                ]
+            },
+            "properties": {
+                rdf:type: catal:Xfind,
+                "id": "10001.x1",
+                "uid": 10001,
+                "sid": 1000,
+                "year": 2009,
+                "stage": 0,
+                "matgroup": "Clay",
+                "matsub": "Figurine",
+                "objtype": "Zoomorphic",
+                "type_finds": "figurine"
+            },
+            "periods": [
+                {   "id": catal:4040.Unknown,
+                    "label": "Hodder level 4040.Unknown",
+                    "tSpanType": "periodArray",
+                    "tSpans": [{"s": "", "e": "", "during": true}],
+                    "class": catal_p:hodder_level,
+                    "src": catal_e:mssql_database,
+                    "properties": {
+                        "certainty": catal:?
+                    }
+                }, {
+                    "id": catal:4040.Unknown,
+                    "label": "Hodder level 4040.Unknown",
+                    "tSpanType": "periodArray",
+                    "tSpans": [{"s": "2009-01-01", "e": "2009-12-31", "during": true}],
+                    "class": catal_p:excavation_year,
+                    "src": catal_e:mssql_database,
+                    "properties": {
+                        "certainty": catal:?
+                    }
+                }
+            ]
+        }
+    ]
+}
