@@ -15,35 +15,37 @@
             },
             "properties": {
                 "rdf:type": "catal:Xfind",
-                "id": "10001.x1",
-                "uid": 10001,
-                "sid": 1000,
-                "year": 2009,
-                "stage": 0,
-                "matgroup": "Clay",
-                "matsub": "Figurine",
-                "objtype": "Zoomorphic",
-                "type_finds": "figurine"
+                "catal:id": "10001.x1",
+                "catal:uid": 10001,
+                "catal:sid": 1000,
+                "catal:year": 2009,
+                "catal:stage": 0,
+                "catal:matgroup": "Clay",
+                "catal:matsub": "Figurine",
+                "catal:objtype": "Zoomorphic",
+                "catal:type_finds": "figurine",
+                "catal:hodder_level": "catal:4040.?G",
+                "catal:exca_year": "catal:exca2009"
             },
             "periods": [
-                {   "id": "catal:4040.Unknown",
-                    "label": "Hodder level 4040.Unknown",
+                {   "id": "catal:4040.?G",
+                    "label": "Hodder level 4040.?G",
                     "tSpanType": "periodArray",
-                    "tSpans": [{"s": "", "e": "", "during": true}],
+                    "tSpans": [{"s": "-6500", "e": "-6400", "during": true}],
                     "class": "catal_p:hodder_level",
                     "src": "catal_e:mssql_database",
                     "properties": {
-                        "certainty": "catal:?"
+                        "certainty": "catal:_?"
                     }
                 }, {
-                    "id": "catal:4040.Unknown",
-                    "label": "Hodder level 4040.Unknown",
+                    "id": "catal:exca2009",
+                    "label": "Catalhoyuk 2009 excavation season",
                     "tSpanType": "periodArray",
-                    "tSpans": [{"s": "2009-01-01", "e": "2009-12-31", "during": true}],
+                    "tSpans": [{"s": "2009-06-25", "e": "2009-08-31", "during": true}],
                     "class": "catal_p:excavation_year",
                     "src": "catal_e:mssql_database",
                     "properties": {
-                        "certainty": "catal:?"
+                        "certainty": "certain"
                     }
                 }
             ]
