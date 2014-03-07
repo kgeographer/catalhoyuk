@@ -1,0 +1,28 @@
+SELECT ?x
+WHERE { ?x  c:materialGroup c:Shell }
+
+SELECT ?x ?m
+WHERE { ?x  c:hasObjectType c:Tool 
+			c:hasMaterial ?m}
+
+SELECT ?x
+WHERE { ?x  c:materialSubgroup c:Worked }
+
+SELECT ?s ?p
+WHERE { ?s  ?p "Worked"
+
+SELECT ?t
+WHERE
+  { ?s  ?p "Worked" .
+    ?s  c:hasObjectType	 ?t .
+  } 
+
+SELECT ?x ?m ?u ?s ?b
+WHERE { 
+?x c:hasObjectType c:Tool .
+?x c:materialGroup ?m .
+?x c:inUnit ?u .
+?u c:inSpace ?s .
+?s c:hodderLevel '4040.G' .
+?s c:inBuilding ?b .
+}

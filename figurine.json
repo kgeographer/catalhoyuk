@@ -1,0 +1,208 @@
+{
+    "@context": {
+        "c":"http://dh.stanford.edu/o/catalhoyuk/#",
+        "bmt":"http://collection.britishmuseum.org/id/thesauri/#",
+        "id": "@id",
+        "type": "@type",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": "rdfs:label",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "ecrm": "http://erlangen-crm.org/current/#",
+        "FeatureCollection": "http://geojson.org/geojson-spec.html#feature-collection-objects",
+        "Feature": "http://geovocab.org/spatial#Feature",
+        "geometry": "http://geovocab.org/geometry#geometry",
+        "Point": "http://geovocab.org/geometry#Point",
+        "Polygon": "http://geovocab.org/geometry#Polygon",
+        "gid": {
+            "@id": "c:gid",
+            "label": "gid",
+            "rdfs:comment": "unique identifier for a find {unit id}.{team-letter}{find-number}",
+            "@type": "@xsd:string"
+        },
+        "uid": {
+            "@id": "c:uid",
+            "label": "uid",
+            "rdfs:comment": "unique identifier for excavation unit",
+            "@type": "xsd:integer"
+        },
+        "sid": {
+            "@id": "c:sid",
+            "label": "sid",
+            "rdfs:comment": "unique identifier for a space; spaces aggregate units",
+            "@type": "xsd:integer"
+        },
+        "fid": {
+            "@id": "c:fid",
+            "label": "fid",
+            "rdfs:comment": "unique identifier for a feature; features are collections of units",
+            "@type": "xsd:integer"
+        },
+        "bid": {
+            "@id": "c:bid",
+            "label": "bid",
+            "rdfs:comment": "unique identifier for a building",
+            "@type": "xsd:integer"
+        },
+        "aid": {
+            "@id": "c:aid",
+            "label": "aid",
+            "rdfs:comment": "unique identifier for an area; 'name' is used more commonly",
+            "@type": "xsd:integer"
+        },
+        "var_999": {
+            "@id": "c:finds_type",
+            "label": "Find type",
+            "@type": "xsd:string"
+        }
+    }, 
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "@id":"c:10001.x1",
+            "label":"Figurine 10001.X1",
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [ 32.828381527, 37.667331357 ]
+                ]
+            },
+            "properties": {
+                "rdf:type": "catal:Xfind",
+                "gid": "10001.x1",
+                "c:within": ["c:u.10001", "c:sp.1000"],
+                "c:hodder_level":"c:4040.Unknown",
+                "c:stage": 0,
+                "c:excavated_during": "c:excayear2009",
+                "c:finds_matgroup": "bmt:clay",
+                "c:finds_matsub": "c:figurine",
+                "c:additional_fabric": "",
+                "c:additional_fabric_color": "",
+                "c:area": "",
+                "c:building": "",
+                "c:checked": "",
+                "c:clay_added_natural": "",
+                "c:clay_color_uniformity_distrib": "",
+                "c:clay_fractures": "",
+                "c:clay_holes_incisions": "",
+                "c:clay_notes": "",
+                "c:clay_polishing": "",
+                "c:clay_staining": "",
+                "c:clay_type": "",
+                "c:comments": "",
+                "c:composition": "",
+                "c:condition": "",
+                "c:conservation_treatment": "",
+                "c:context_category": "",
+                "c:context_description": "",
+                "c:context_location": "",
+                "c:core_color": "",
+                "c:count": "",
+                "c:data_entry": "",
+                "c:date": "",
+                "c:dcat": "",
+                "c:deposition": "",
+                "c:diam_cm": "",
+                "c:drawn": "",
+                "c:entered_by": "",
+                "c:excavation_year": "",
+                "c:fabric_inclusions": "",
+                "c:fabric_texture": "",
+                "c:feature": "",
+                "c:feature_desc": "",
+                "c:feature_type": "",
+                "c:fingerprints": "",
+                "c:free_standing": "",
+                "c:gid": "",
+                "c:heat_exp_context": "",
+                "c:heat_exposure": "",
+                "c:icat": "",
+                "c:image2": "",
+                "c:image2_id": "",
+                "c:image2_small_id": "",
+                "c:image3": "",
+                "c:image3_id": "",
+                "c:image3_small_id": "",
+                "c:image4": "",
+                "c:image4_id": "",
+                "c:image4_small_id": "",
+                "c:image_ids": "",
+                "c:images": "",
+                "c:image_small_ids": "",
+                "c:inclusion_freq": "",
+                "c:inclusion_size": "",
+                "c:inclusions_present": "",
+                "c:inventory_no": "",
+                "c:level": "",
+                "c:level_sf": "",
+                "c:location": "",
+                "c:material_composition": "",
+                "c:maxh_cm": "",
+                "c:maxl_cm": "",
+                "c:maxth_cm": "",
+                "c:maxw_cm": "",
+                "c:mellaart_id": "",
+                "c:mellaart_location": "",
+                "c:mellaart_no": "",
+                "c:mellaart_notes": "",
+                "c:mfr_method": "",
+                "c:mfr_quality": "",
+                "c:mound": "",
+                "c:object_form": "",
+                "c:OriginalUnit number": "",
+                "c:parallels": "",
+                "c:period": "",
+                "c:phase": "",
+                "c:pieces": "",
+                "c:preservation": "",
+                "c:primary_fabric": "",
+                "c:primary_fabric_color": "",
+                "c:primary_fabric_color_munsell": "",
+                "c:recno": "",
+                "c:reference_hoto": "",
+                "c:sajid": "",
+                "c:sample_no": "",
+                "c:sex_interpr_explanation": "",
+                "c:space": "",
+                "c:space_desc": "",
+                "c:surface_inclusions": "",
+                "c:timestamp": "",
+                "c:unit_desc": "",
+                "c:unit_location": "",
+                "c:unit_sheet": "",
+                "c:weight_g": "",
+                "c:x": "",
+                "var_999": [ 
+                    {"id":"123789", "label":"Zoomorphic"},
+                    {"id":"234678", "label":"Bear"}
+                ]
+            },
+            "periods": [
+                {   "id": "c:4040.?G",
+                    "label": "Hodder level 4040.?G",
+                    "tSpanType": "periodArray",
+                    "tSpans": [{"s": "-6500", "e": "-6400", "during": true}],
+                    "class": "c:hodder_level",
+                    "src": "c:mssql_database",
+                    "properties": {
+                        "c:has_certainty": "c:cert_?",
+                        "t:valid_place": "c:a.4040"
+                    }
+                }, {
+                    "id": "c:excayear2009",
+                    "label": "2009 season",
+                    "tSpanType": "periodArray",
+                    "tSpans": [{"s": "2009-06-21", "e": "2009-08-31"}],
+                    "class": "c:excavation_year",
+                    "src": "c:mssql_database",
+                    "properties": {
+                        "certainty": "c:cert_10"
+                    }
+                }
+            ]
+        }
+    ]
+}
