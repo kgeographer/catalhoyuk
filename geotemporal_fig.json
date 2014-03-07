@@ -1,30 +1,24 @@
 { 
-	"@context": [{
-    "FeatureCollection": "http://example.com/vocab#FeatureCollection",
-    "Feature": "http://example.com/vocab#Feature",
-    "Thing": "http://schema.org/Thing",
-    "catal":"http://dh.stanford.edu/o/catalhoyuk/#",
-    "@calendar": "http://authoritycalendars.org/#",
-    "owl": "http://www.w3.org/2002/07/owl#",
-    "ecrm": "http://erlangen-crm.org/current/#",
-  }, {
-  	"http://dh.stanford.edu/ontologies/catalhoyuk.jsonld"
-  }
+ 	"@context": [
+ 		{
+   		"FeatureCollection": "http://example.com/vocab#FeatureCollection",
+  		"Feature": "http://example.com/vocab#Feature",
+  		"Thing": "http://schema.org/Thing",
+  		"catal":"http://dh.stanford.edu/o/catalhoyuk/#",
+  		"@calendar": "http://authoritycalendars.org/#",
+  		"owl": "http://www.w3.org/2002/07/owl#",
+  		"ecrm": "http://erlangen-crm.org/current/#",
+  }, 
+  {  	"http://dh.stanford.edu/ontologies/catalhoyuk.jsonld"  }
   ],
 	"type": "FeatureCollection",   
 	"features": [     
 		{ 	
 			"type": "Feature", 
-			"properties": { "@id":"100001.X1", "rdf:type": "catal:xfind", 
-				"object_type":"Figurine", "primary_fabric": "clay" },      
+			"properties": { "@id":"100001.X1", "rdf:type": "catal:xfind", "object_type":"Figurine", "primary_fabric": "clay" },      
 			"geometry": {
 				"type": "Point", 
-				"coordinates": [ 32.828381527, 37.667331357 ],
-				"crs": {
-  				"type": "name",
-  				"properties": {
-    				"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    			}
+				"coordinates": [ 32.828381527, 37.667331357 ]
   			}
 			},
 			"temporalExtent": [{
