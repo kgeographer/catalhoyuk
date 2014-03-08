@@ -9,7 +9,7 @@
   		"owl": "http://www.w3.org/2002/07/owl#",
   		"ecrm": "http://erlangen-crm.org/current/#",
   }, 
-  {  	"http://dh.stanford.edu/ontologies/catalhoyuk.jsonld"  }
+  {  	"http://dh.stanford.edu/onto/catalhoyuk/catalhoyuk.jsonld"  }
   ],
 	"type": "FeatureCollection",   
 	"features": [     
