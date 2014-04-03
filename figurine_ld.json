@@ -1,0 +1,73 @@
+{
+    "@context": {
+        "c": "http://catalhoyuk.stanford.edu/schema/#",
+        "Timespan": "http://catalhoyuk.stanford.edu/schema/#Timespan",
+        "bmt": "http://collection.britishmuseum.org/id/thesauri/#",
+        "id": "@id",
+        "type": "@type",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": "rdfs:label",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "ecrm": "http://erlangen-crm.org/current/#",
+        "FeatureCollection": "http://geojson.org/geojson-spec.html#feature-collection-objects",
+        "Feature": "http://geovocab.org/spatial#Feature",
+        "geometry": "http://geovocab.org/geometry#geometry",
+        "Point": "http://geovocab.org/geometry#Point",
+        "Polygon": "http://geovocab.org/geometry#Polygon",
+        "var_999": {
+            "@id": "c:finds_type",
+            "label": "Find type",
+            "@type": "xsd:string"
+        }
+    },
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "@id": "c:10001.x1",
+            "label": "Figurine 10001.X1",
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        32.828381527,
+                        37.667331357
+                    ]
+                ]
+            },
+            "time": {
+                "type": "Timespan",
+                "value": [
+                    "-7400",
+                    "-6200"
+                ]
+            },
+            "properties": {
+                "rdf:type": "catal:Xfind",
+                "gid": "10001.x1",
+                "c:within": [
+                    "c:u.10001",
+                    "c:sp.1000"
+                ],
+                "c:hodder_level": "c:4040.Unknown",
+                "c:stage": 0,
+                "var_999": [
+                    {
+                        "id": "123789",
+                        "label": "Zoomorphic"
+                    },
+                    {
+                        "id": "234678",
+                        "label": "Bear"
+                    }
+                ],
+                "c:excavated_during": "c:excayear2009",
+                "c:finds_matgroup": "bmt:clay",
+                "c:finds_matsub": "c:figurine"
+            }
+        }
+    ]
+}
