@@ -19,9 +19,8 @@
 			"geometry": {
 				"type": "Point", 
 				"coordinates": [ 32.828381527, 37.667331357 ]
-  			}
-			},
-			"temporalExtent": [{
+  		},
+			"temporalExtent": {
 				"label": "Hodder level 4040.?G",
 				"projection": {"atom": "year", "origin":"0", "@calendar": "gregorian"},
 				"timespans": [
@@ -31,7 +30,7 @@
 					"rdf:type": "catal:level",
 					"catal:excayear": "catal:exca2009",
 				}
-			}]		
+			}
 		}
 	]    
 }
