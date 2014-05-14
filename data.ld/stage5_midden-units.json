@@ -1,0 +1,1975 @@
+{
+type: "FeatureCollection",
+count: 70,
+@context: {
+dcterms: "http://purl.org/dc/terms/",
+rdfs: "http://www.w3.org/2000/01/rdf-schema#",
+xsd: "http://www.w3.org/2001/XMLSchema#",
+catal: "http://catalhoyuk.stanford.edu/ont/",
+level: "http://catalhoyuk.stanford.edu/ont/level",
+when: "http://example.org/vocab#when",
+unit: "http://catalhoyuk.stanford.edu/ont/unit"
+},
+features: [
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828356448,
+37.667734129
+]
+]
+},
+when: {
+excayear: 1997,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 2209,
+sid: 86,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "Midden, Pit fill",
+lon: 32.828356448,
+lat: 37.667734129,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828351242,
+37.667729705
+]
+]
+},
+when: {
+excayear: 1997,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 2214,
+sid: 86,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden, pit fill",
+lon: 32.828351242,
+lat: 37.667729705,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828332952,
+37.667744641
+]
+]
+},
+when: {
+excayear: 1998,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 2260,
+sid: 86,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midde + fill",
+lon: 32.828332952,
+lat: 37.667744641,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828335903,
+37.667743293
+]
+]
+},
+when: {
+excayear: 1999,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 3530,
+sid: 86,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "roof collapse, midden",
+lon: 32.828335903,
+lat: 37.667743293,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828329627,
+37.667711286
+]
+]
+},
+when: {
+excayear: 1999,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 3542,
+sid: 86,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "roof collapse",
+lon: 32.828329627,
+lat: 37.667711286,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828306514,
+37.667752534
+]
+]
+},
+when: {
+excayear: 1999,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 3552,
+sid: 158,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "cons. rubble",
+lon: 32.828306514,
+lat: 37.667752534,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828349072,
+37.667736732
+]
+]
+},
+when: {
+excayear: 1999,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 3554,
+sid: 86,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden/debris",
+lon: 32.828349072,
+lat: 37.667736732,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828093142,
+37.667642981
+]
+]
+},
+when: {
+excayear: 2007,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 15603,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828093142,
+lat: 37.667642981,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828096095,
+37.667641002
+]
+]
+},
+when: {
+excayear: 2007,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 15477,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828096095,
+lat: 37.667641002,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828094269,
+37.667646047
+]
+]
+},
+when: {
+excayear: 2007,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 15645,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "street, midden",
+lon: 32.828094269,
+lat: 37.667646047,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828104667,
+37.667611631
+]
+]
+},
+when: {
+excayear: 2007,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 16037,
+sid: 276,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828104667,
+lat: 37.667611631,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828102729,
+37.667616225
+]
+]
+},
+when: {
+excayear: 2007,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 16038,
+sid: 276,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "external dump, street layers",
+lon: 32.828102729,
+lat: 37.667616225,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828328212,
+37.667537956
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 10719,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden or infill",
+lon: 32.828328212,
+lat: 37.667537956,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828181661,
+37.667561178
+]
+]
+},
+when: {
+excayear: 2005,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 11905,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Ashy fill on supposed street",
+lon: 32.828181661,
+lat: 37.667561178,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828149073,
+37.667629903
+]
+]
+},
+when: {
+excayear: 2010,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 19205,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "external dump layer",
+lon: 32.828149073,
+lat: 37.667629903,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828135498,
+37.667616363
+]
+]
+},
+when: {
+excayear: 2010,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 19206,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "mixed dump layer",
+lon: 32.828135498,
+lat: 37.667616363,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828127519,
+37.667634378
+]
+]
+},
+when: {
+excayear: 2010,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 19210,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "mixed dump layer",
+lon: 32.828127519,
+lat: 37.667634378,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828306514,
+37.667752534
+]
+]
+},
+when: {
+excayear: 1999,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 3552,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "cons. rubble",
+lon: 32.828306514,
+lat: 37.667752534,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828104843,
+37.667584501
+]
+]
+},
+when: {
+excayear: 2007,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 15969,
+sid: 276,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828104843,
+lat: 37.667584501,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.826824604,
+37.665716223
+]
+]
+},
+when: {
+excayear: 2012,
+level: "South.O",
+stage: 5
+},
+properties: {
+uid: 20379,
+sid: 365,
+area: "South",
+mound: "East",
+dcat: "midden",
+icat: "midden, arbitary layer",
+lon: 32.826824604,
+lat: 37.665716223,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828141072,
+37.667608349
+]
+]
+},
+when: {
+excayear: 2005,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 12945,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828141072,
+lat: 37.667608349,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828094384,
+37.667645506
+]
+]
+},
+when: {
+excayear: 2007,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 15627,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828094384,
+lat: 37.667645506,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828313897,
+37.667747137
+]
+]
+},
+when: {
+excayear: 1999,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 6209,
+sid: 158,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828313897,
+lat: 37.667747137,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828303874,
+37.667766681
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 6698,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828303874,
+lat: 37.667766681,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828296209,
+37.667747021
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8143,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828296209,
+lat: 37.667747021,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828296323,
+37.667746841
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8159,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828296323,
+lat: 37.667746841,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828296083,
+37.667752519
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8170,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828296083,
+lat: 37.667752519,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828296196,
+37.667752429
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8173,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828296196,
+lat: 37.667752429,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828296209,
+37.66774675
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8178,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828296209,
+lat: 37.66774675,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828296005,
+37.667736835
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8253,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "Midden",
+lon: 32.828296005,
+lat: 37.667736835,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828295638,
+37.667748462
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8312,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden fill",
+lon: 32.828295638,
+lat: 37.667748462,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.82829645,
+37.667740802
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8338,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.82829645,
+lat: 37.667740802,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828295527,
+37.667747651
+]
+]
+},
+when: {
+excayear: 2001,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8354,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828295527,
+lat: 37.667747651,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828349072,
+37.667736462
+]
+]
+},
+when: {
+excayear: 2002,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8585,
+sid: 201,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden in NE part",
+lon: 32.828349072,
+lat: 37.667736462,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828315312,
+37.667772917
+]
+]
+},
+when: {
+excayear: 2002,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8589,
+sid: 201,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828315312,
+lat: 37.667772917,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828293916,
+37.667757743
+]
+]
+},
+when: {
+excayear: 2003,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8621,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden - arbitrary layer",
+lon: 32.828293916,
+lat: 37.667757743,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828294464,
+37.667766217
+]
+]
+},
+when: {
+excayear: 2003,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8625,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden - arbitrary layer",
+lon: 32.828294464,
+lat: 37.667766217,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828294559,
+37.667774149
+]
+]
+},
+when: {
+excayear: 2003,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8629,
+sid: 85,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828294559,
+lat: 37.667774149,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828369167,
+37.667774888
+]
+]
+},
+when: {
+excayear: 2003,
+level: "Bach.?G",
+stage: 5
+},
+properties: {
+uid: 8684,
+sid: 201,
+area: "Bach",
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828369167,
+lat: 37.667774888,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828197102,
+37.6676014
+]
+]
+},
+when: {
+excayear: 2005,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 10296,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden and external dumps",
+lon: 32.828197102,
+lat: 37.6676014,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828183458,
+37.667617604
+]
+]
+},
+when: {
+excayear: 2005,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 10297,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden and external dumps",
+lon: 32.828183458,
+lat: 37.667617604,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828198638,
+37.667623756
+]
+]
+},
+when: {
+excayear: 2005,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 10298,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden and external dumps",
+lon: 32.828198638,
+lat: 37.667623756,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828323365,
+37.667525781
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 10723,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828323365,
+lat: 37.667525781,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828279457,
+37.667537074
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 10732,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden layer, fire-spot",
+lon: 32.828279457,
+lat: 37.667537074,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828279456,
+37.667537525
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 10733,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden layer (arbitrary)",
+lon: 32.828279456,
+lat: 37.667537525,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828283223,
+37.667526714
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 11022,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Midden, Fill",
+lon: 32.828283223,
+lat: 37.667526714,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.82828311,
+37.667526714
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 11023,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Fill, Midden",
+lon: 32.82828311,
+lat: 37.667526714,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828283109,
+37.667526804
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 11024,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Midden",
+lon: 32.828283109,
+lat: 37.667526804,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828310571,
+37.667517651
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 11027,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Fill, Midden",
+lon: 32.828310571,
+lat: 37.667517651,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828324755,
+37.667512804
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 11028,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Fill, Midden",
+lon: 32.828324755,
+lat: 37.667512804,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828318628,
+37.667514598
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 11034,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Fill, Midden",
+lon: 32.828318628,
+lat: 37.667514598,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828293814,
+37.66750672
+]
+]
+},
+when: {
+excayear: 2004,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 11035,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Fill, Midden",
+lon: 32.828293814,
+lat: 37.66750672,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828101236,
+37.667624515
+]
+]
+},
+when: {
+excayear: 2007,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 15970,
+sid: 145,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "street layers, midden like",
+lon: 32.828101236,
+lat: 37.667624515,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828139916,
+37.667617901
+]
+]
+},
+when: {
+excayear: 2006,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 12961,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828139916,
+lat: 37.667617901,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828217404,
+37.667549963
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 14189,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Midden",
+lon: 32.828217404,
+lat: 37.667549963,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.826835022,
+37.665721827
+]
+]
+},
+when: {
+excayear: 2013,
+level: "South.O",
+stage: 5
+},
+properties: {
+uid: 20807,
+sid: 370,
+area: "South",
+mound: "East",
+dcat: "midden",
+icat: "midden infill in niche, midden infill of wall installation",
+lon: 32.826835022,
+lat: 37.665721827,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828365839,
+37.66749673
+]
+]
+},
+when: {
+excayear: 2007,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 15005,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden, Room Fill",
+lon: 32.828365839,
+lat: 37.66749673,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828135529,
+37.667602843
+]
+]
+},
+when: {
+excayear: 2010,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 19201,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "brick-rich dump layer",
+lon: 32.828135529,
+lat: 37.667602843,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828199926,
+37.667557148
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 14198,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Midden fill cut",
+lon: 32.828199926,
+lat: 37.667557148,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828204333,
+37.667563735
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 14191,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "External dump deposit",
+lon: 32.828204333,
+lat: 37.667563735,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828189583,
+37.667567679
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 16717,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Charcoal Rich Deposit",
+lon: 32.828189583,
+lat: 37.667567679,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828137181,
+37.667624027
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 16726,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "Eroded Midden Fill",
+lon: 32.828137181,
+lat: 37.667624027,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.8281357,
+37.667626999
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 16728,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden dump",
+lon: 32.8281357,
+lat: 37.667626999,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.82815954,
+37.667614866
+]
+]
+},
+when: {
+excayear: 2006,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 12937,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "dumping, levelling",
+lon: 32.82815954,
+lat: 37.667614866,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828261204,
+37.667536236
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 17718,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828261204,
+lat: 37.667536236,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828259375,
+37.667542543
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 17719,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828259375,
+lat: 37.667542543,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828259602,
+37.667542453
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 17720,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828259602,
+lat: 37.667542453,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828259602,
+37.667542634
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 17721,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828259602,
+lat: 37.667542634,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828259715,
+37.667542544
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.G",
+stage: 5
+},
+properties: {
+uid: 17724,
+sid: 133,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "midden",
+lon: 32.828259715,
+lat: 37.667542544,
+@type: "unit"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "MultiPoint",
+coordinates: [
+[
+32.828127493,
+37.667596702
+]
+]
+},
+when: {
+excayear: 2008,
+level: "4040.?G",
+stage: 5
+},
+properties: {
+uid: 16791,
+sid: 60,
+area: 4040,
+mound: "East",
+dcat: "midden",
+icat: "ash dump lense",
+lon: 32.828127493,
+lat: 37.667596702,
+@type: "unit"
+}
+}
+],
+}

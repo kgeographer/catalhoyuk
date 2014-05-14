@@ -1,0 +1,23 @@
+SELECT ?x ?m ?u ?s ?b
+WHERE {
+?x c:hasObjectType c:Tool .
+?x c:materialGroup ?m .
+?x c:inUnit ?u .
+?u c:inSpace ?s .
+?s c:hodderLevel ?l .
+?s c:inBuilding ?b .
+}
+
+
+SELECT ?x ?m ?u ?s ?b ?l ?rel $val
+WHERE {
+?x c:hasObjectType c:Tool .
+?x c:materialGroup ?m .
+?x c:inUnit ?u .
+?x ?rel ?val .
+?u c:inSpace ?s .
+?s c:inBuilding ?b .
+?s c:hodderLevel ?l .
+
+FILTER regex(?l,'4040.G$','i')
+}
