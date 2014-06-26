@@ -1,0 +1,116 @@
+@prefix c:       <http://dh.stanford.edu/o/catalhoyuk/#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+c:MaterialSubgroups a skos:Collection ;
+	rdfs:label "skos sub-collection"^^xsd:string ;
+	skos:member c:Superstructure, c:Mudbrick, c:Silver, c:Flint, c:Lead, c:Pottery, c:Worked, c:Bulk, c:Dendro, c:Slag, c:Horn_Antler_Tusk, c:Other, c:Shape, c:Bone, c:Copper_Alloy, c:Unworked, c:Daub, c:Iron, c:Phytolith, c:Glass, c:Obsidian, c:Charcoal, c:Phosphorus, c:Unidentified, c:Figurine, c:Groundstone, c:Tooth, c:Wood, c:CBM, c:Textile, c:Plaster, c:BM_Mudbrick, c:C-14, c:Mortar, c:Gold, c:Microfaunal .
+	
+c:Textile 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Daub 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Gold 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Iron 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Mortar 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Charcoal 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Superstructure 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Slag 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Phytolith 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Horn_Antler_Tusk 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Unidentified 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Unworked 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Other 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Dendro 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Shape 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Plaster 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Microfaunal 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Silver 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Lead 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Worked 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Pottery 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Groundstone 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Tooth 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Phosphorus 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Mudbrick 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Figurine 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Wood 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Bulk 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Obsidian 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Glass 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Copper_Alloy 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:CBM 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:C-14 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:BM_Mudbrick 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Bone 
+  a skos:Concept ;
+  skos:note  ""@en .
+c:Flint 
+  a skos:Concept ;
+  skos:note  ""@en .

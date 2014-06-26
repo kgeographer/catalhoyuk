@@ -1,0 +1,231 @@
+﻿@prefix c: <http://catalhoyuk.stanford.edu/onto/catal#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+c:AccessHole rdf:type skos:Concept ;
+	skos:prefLabel "Access Hole"@en" ;
+	c:featureTypeId "12" .
+c:Basin rdf:type skos:Concept ;
+	skos:prefLabel "Basin"@en" ;
+	c:featureTypeId "26" .
+c:Bench rdf:type skos:Concept ;
+	skos:prefLabel "Bench"@en" ;
+	c:featureTypeId "1" .
+c:Bin rdf:type skos:Concept ;
+	skos:prefLabel "Bin"@en" ;
+	c:featureTypeId "25" .
+c:Burial rdf:type skos:Concept ;
+	skos:prefLabel "Burial"@en" ;
+	c:featureTypeId "2" .
+c:Cache_Hoard rdf:type skos:Concept ;
+	skos:prefLabel "Cache/Hoard"@en" ;
+	c:featureTypeId "17" .
+c:FireInstallation rdf:type skos:Concept ;
+	skos:prefLabel "Fire Installation"@en" ;
+	c:featureTypeId "3" .
+c:Floor rdf:type skos:Concept ;
+	skos:prefLabel "Floor"@en" ;
+	c:featureTypeId "4" .
+c:InternalPartition rdf:type skos:Concept ;
+	skos:prefLabel "Internal Partition"@en" ;
+	c:featureTypeId "20" .
+c:Kerb rdf:type skos:Concept ;
+	skos:prefLabel "Kerb"@en" ;
+	c:featureTypeId "33" .
+c:LadderEmplacement rdf:type skos:Concept ;
+	skos:prefLabel "Ladder Emplacement"@en" ;
+	c:featureTypeId "15" .
+c:Ledge_Shelf rdf:type skos:Concept ;
+	skos:prefLabel "Ledge/Shelf"@en" ;
+	c:featureTypeId "27" .
+c:Niche_Recess rdf:type skos:Concept ;
+	skos:prefLabel "Niche/Recess"@en" ;
+	c:featureTypeId "13" .
+c:Other rdf:type skos:Concept ;
+	skos:prefLabel "Other"@en" ;
+	c:featureTypeId "31" .
+c:Pillar rdf:type skos:Concept ;
+	skos:prefLabel "Pillar"@en" ;
+	c:featureTypeId "6" .
+c:Pit rdf:type skos:Concept ;
+	skos:prefLabel "Pit"@en" ;
+	c:featureTypeId "7" .
+c:Platform rdf:type skos:Concept ;
+	skos:prefLabel "Platform"@en" ;
+	c:featureTypeId "8" .
+c:Podium_Pedestal rdf:type skos:Concept ;
+	skos:prefLabel "Podium/Pedestal"@en" ;
+	c:featureTypeId "24" .
+c:Post rdf:type skos:Concept ;
+	skos:prefLabel "Post"@en" ;
+	c:featureTypeId "34" .
+c:PostPit rdf:type skos:Concept ;
+	skos:prefLabel "Post Pit"@en" ;
+	c:featureTypeId "14" .
+c:Roof rdf:type skos:Concept ;
+	skos:prefLabel "Roof"@en" ;
+	c:featureTypeId "23" .
+c:Step rdf:type skos:Concept ;
+	skos:prefLabel "Step"@en" ;
+	c:featureTypeId "22" .
+c:Threshold rdf:type skos:Concept ;
+	skos:prefLabel "Threshold"@en" ;
+	c:featureTypeId "29" .
+c:Wall rdf:type skos:Concept ;
+	skos:prefLabel "Wall"@en" ;
+	c:featureTypeId "9" .
+c:WallFeature rdf:type skos:Concept ;
+	skos:prefLabel "Wall Feature"@en" ;
+	c:featureTypeId "16" .
+
+c:Opening rdf:type skos:Concept ;
+	skos:prefLabel "Opening"@en" ;
+	skos:broader c:AccessHole ;
+	c:featureSubtypeId "21" .
+c:Window rdf:type skos:Concept ;
+	skos:prefLabel "Window"@en" ;
+	skos:broader c:AccessHole ;
+	c:featureSubtypeId "15" .
+c:Doorway rdf:type skos:Concept ;
+	skos:prefLabel "Doorway"@en" ;
+	skos:broader c:AccessHole ;
+	c:featureSubtypeId "9" .
+c:Crawlhole rdf:type skos:Concept ;
+	skos:prefLabel "Crawlhole"@en" ;
+	skos:broader c:AccessHole ;
+	c:featureSubtypeId "8" .
+c:FireSpot rdf:type skos:Concept ;
+	skos:prefLabel "Fire Spot"@en" ;
+	skos:broader c:FireInstallation ;
+	c:featureSubtypeId "22" .
+c:Kiln rdf:type skos:Concept ;
+	skos:prefLabel "Kiln"@en" ;
+	skos:broader c:FireInstallation ;
+	c:featureSubtypeId "17" .
+c:Oven rdf:type skos:Concept ;
+	skos:prefLabel "Oven"@en" ;
+	skos:broader c:FireInstallation ;
+	c:featureSubtypeId "14" .
+c:Hearth rdf:type skos:Concept ;
+	skos:prefLabel "Hearth"@en" ;
+	skos:broader c:FireInstallation ;
+	c:featureSubtypeId "3" .
+c:TroddenHorizon rdf:type skos:Concept ;
+	skos:prefLabel "Trodden Horizon"@en" ;
+	skos:broader c:Floor ;
+	c:featureSubtypeId "24" .
+c:Surface rdf:type skos:Concept ;
+	skos:prefLabel "Surface"@en" ;
+	skos:broader c:Floor ;
+	c:featureSubtypeId "23" .
+c:Step rdf:type skos:Concept ;
+	skos:prefLabel "Step"@en" ;
+	skos:broader c:Kerb ;
+	c:featureSubtypeId "27" .
+c:Threshold rdf:type skos:Concept ;
+	skos:prefLabel "Threshold"@en" ;
+	skos:broader c:Kerb ;
+	c:featureSubtypeId "26" .
+c:Ridge rdf:type skos:Concept ;
+	skos:prefLabel "Ridge"@en" ;
+	skos:broader c:Kerb ;
+	c:featureSubtypeId "25" .
+c:Puddled_DisturbedAtFloor rdf:type skos:Concept ;
+	skos:prefLabel "Puddled/Disturbed at Floor"@en" ;
+	skos:broader c:LadderEmplacement ;
+	c:featureSubtypeId "30" .
+c:FloorCut_Hollow rdf:type skos:Concept ;
+	skos:prefLabel "Floor Cut/Hollow"@en" ;
+	skos:broader c:LadderEmplacement ;
+	c:featureSubtypeId "29" .
+c:LadderScar rdf:type skos:Concept ;
+	skos:prefLabel "Ladder Scar"@en" ;
+	skos:broader c:LadderEmplacement ;
+	c:featureSubtypeId "28" .
+c:Recess rdf:type skos:Concept ;
+	skos:prefLabel "Recess"@en" ;
+	skos:broader c:Niche/Recess ;
+	c:featureSubtypeId "34" .
+c:HandRecess rdf:type skos:Concept ;
+	skos:prefLabel "Hand Recess"@en" ;
+	skos:broader c:Niche/Recess ;
+	c:featureSubtypeId "33" .
+c:Shelf rdf:type skos:Concept ;
+	skos:prefLabel "Shelf"@en" ;
+	skos:broader c:Niche/Recess ;
+	c:featureSubtypeId "32" .
+c:PostPad rdf:type skos:Concept ;
+	skos:prefLabel "Post Pad"@en" ;
+	skos:broader c:Pillar ;
+	c:featureSubtypeId "35" .
+c:Scoop rdf:type skos:Concept ;
+	skos:prefLabel "Scoop"@en" ;
+	skos:broader c:Pit ;
+	c:featureSubtypeId "36" .
+c:EngagedPost_Pillar rdf:type skos:Concept ;
+	skos:prefLabel "Engaged Post/Pillar"@en" ;
+	skos:broader c:Post ;
+	c:featureSubtypeId "40" .
+c:PostScar rdf:type skos:Concept ;
+	skos:prefLabel "Post Scar"@en" ;
+	skos:broader c:Post ;
+	c:featureSubtypeId "39" .
+c:ClayPost rdf:type skos:Concept ;
+	skos:prefLabel "Clay Post"@en" ;
+	skos:broader c:Post ;
+	c:featureSubtypeId "38" .
+c:WoodenPost rdf:type skos:Concept ;
+	skos:prefLabel "Wooden Post"@en" ;
+	skos:broader c:Post ;
+	c:featureSubtypeId "37" .
+c:RoofRelatedMaterial rdf:type skos:Concept ;
+	skos:prefLabel "Roof Related Material"@en" ;
+	skos:broader c:Roof ;
+	c:featureSubtypeId "41" .
+c:BeamSlot rdf:type skos:Concept ;
+	skos:prefLabel "Beam Slot"@en" ;
+	skos:broader c:Roof ;
+	c:featureSubtypeId "20" .
+c:Repair rdf:type skos:Concept ;
+	skos:prefLabel "Repair"@en" ;
+	skos:broader c:Wall ;
+	c:featureSubtypeId "45" .
+c:Support rdf:type skos:Concept ;
+	skos:prefLabel "Support"@en" ;
+	skos:broader c:Wall ;
+	c:featureSubtypeId "44" .
+c:CurtainWall rdf:type skos:Concept ;
+	skos:prefLabel "Curtain Wall"@en" ;
+	skos:broader c:Wall ;
+	c:featureSubtypeId "43" .
+c:InternalWall rdf:type skos:Concept ;
+	skos:prefLabel "Internal Wall"@en" ;
+	skos:broader c:Wall ;
+	c:featureSubtypeId "42" .
+c:Buttress rdf:type skos:Concept ;
+	skos:prefLabel "Buttress"@en" ;
+	skos:broader c:Wall ;
+	c:featureSubtypeId "19" .
+c:Blocking rdf:type skos:Concept ;
+	skos:prefLabel "Blocking"@en" ;
+	skos:broader c:Wall ;
+	c:featureSubtypeId "18" .
+c:AnimalHorn rdf:type skos:Concept ;
+	skos:prefLabel "Animal Horn"@en" ;
+	skos:broader c:WallFeature ;
+	c:featureSubtypeId "46" .
+c:Painting rdf:type skos:Concept ;
+	skos:prefLabel "Painting"@en" ;
+	skos:broader c:WallFeature ;
+	c:featureSubtypeId "13" .
+c:Bucrannia rdf:type skos:Concept ;
+	skos:prefLabel "Bucrannia"@en" ;
+	skos:broader c:WallFeature ;
+	c:featureSubtypeId "12" .
+c:WallRelief rdf:type skos:Concept ;
+	skos:prefLabel "Wall Relief"@en" ;
+	skos:broader c:WallFeature ;
+	c:featureSubtypeId "11" .
+c:Moulding rdf:type skos:Concept ;
+	skos:prefLabel "Moulding"@en" ;
+	skos:broader c:WallFeature ;
+	c:featureSubtypeId "10" .
