@@ -38,7 +38,7 @@ c:Ledge_Shelf rdf:type skos:Concept ;
 	skos:prefLabel "Ledge/Shelf"@en" ;
 	c:featureTypeId "27" .
 c:Niche_Recess rdf:type skos:Concept ;
-	skos:prefLabel "Niche/Recess"@en" ;
+	skos:prefLabel "Niche_Recess"@en" ;
 	c:featureTypeId "13" .
 c:Other rdf:type skos:Concept ;
 	skos:prefLabel "Other"@en" ;
@@ -143,15 +143,15 @@ c:LadderScar rdf:type skos:Concept ;
 	c:featureSubtypeId "28" .
 c:Recess rdf:type skos:Concept ;
 	skos:prefLabel "Recess"@en" ;
-	skos:broader c:Niche/Recess ;
+	skos:broader c:Niche_Recess ;
 	c:featureSubtypeId "34" .
 c:HandRecess rdf:type skos:Concept ;
 	skos:prefLabel "Hand Recess"@en" ;
-	skos:broader c:Niche/Recess ;
+	skos:broader c:Niche_Recess ;
 	c:featureSubtypeId "33" .
 c:Shelf rdf:type skos:Concept ;
 	skos:prefLabel "Shelf"@en" ;
-	skos:broader c:Niche/Recess ;
+	skos:broader c:Niche_Recess ;
 	c:featureSubtypeId "32" .
 c:PostPad rdf:type skos:Concept ;
 	skos:prefLabel "Post Pad"@en" ;

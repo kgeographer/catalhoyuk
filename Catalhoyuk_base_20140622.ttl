@@ -26,6 +26,7 @@ c:
   rdfs:label "Catalhoyuk"@en ;
   owl:versionInfo "20140621"@en ;
 .
+  
 <http://catalhoyuk.stanford.edu/onto/catal#4040>
   rdf:type c:Area ;
   ecrm:P46i_forms_part_of c:East_Mound ;
@@ -6944,4 +6945,16 @@ skos:Collection
 .
 skos:Concept
   rdf:type owl:Class ;
+.
+
+c:Find_15895.X4 
+  rdf:type c:XFind ; 
+  c:hasGID "15895.X4"^^xsd:string ;
+  rdfs:label "Find 15895.X4"^^xsd:string ;
+  c:inUnit c:Unit_15895 ;
+  c:findClass "GroundStone"^^xsd:string ;
+  c:studiedBy c:Groundstone_team ;
+  c:tableName "groundstone_basic"^^xsd:string ; 
+  c:description "Undifferentiated Miscellaneous Flaked/Abraded/Polished"^^xsd:string ; 
+  c:typeText "Undifferentiated Miscellaneous Flaked/Abraded/Polished"^^xsd:string 
 .
