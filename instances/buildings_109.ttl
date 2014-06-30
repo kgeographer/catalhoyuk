@@ -1,0 +1,697 @@
+c:Building_1
+	rdf:type c:Building ;
+	rdfs:label "Building_1"^^xsd:string ;
+	c:hasBID "1"^^xsd:integer ;
+	c:burnt "true"^^xsd:boolean ;
+	c:description """Uppermost  building directly below the surface of the mound. Consists of spaces 70 [no longer in use],71,72 [no longer in use], 110, 111, 183, 184, 185, 186, 187 and 188. Roughly equivalent to Mellaart Lev97el VI-V but with some later post-abandonment material."""^^xsd:string .
+c:Building_2
+	rdf:type c:Building ;
+	rdfs:label "Building_2"^^xsd:string ;
+	c:hasBID "2"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """W: sp 117   E; sp 116"""^^xsd:string .
+c:Building_3
+	rdf:type c:Building ;
+	rdfs:label "Building_3"^^xsd:string ;
+	c:hasBID "3"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """sp 86, 158, 201"""^^xsd:string .
+c:Building_4
+	rdf:type c:Building ;
+	rdfs:label "Building_4"^^xsd:string ;
+	c:hasBID "4"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Partial building, sp150, 151"""^^xsd:string .
+c:Building_5
+	rdf:type c:Building ;
+	rdfs:label "Building_5"^^xsd:string ;
+	c:hasBID "5"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building directly beneath Building 1. Consists of spaces 154, 155, 156 and 157. Roughly equivalent to Mellaart Level VII-VI"""^^xsd:string .
+c:Building_6
+	rdf:type c:Building ;
+	rdfs:label "Building_6"^^xsd:string ;
+	c:hasBID "6"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """sp 163, 173"""^^xsd:string .
+c:Building_7
+	rdf:type c:Building ;
+	rdfs:label "Building_7"^^xsd:string ;
+	c:hasBID "7"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """sp 176"""^^xsd:string .
+c:Building_8
+	rdf:type c:Building ;
+	rdfs:label "Building_8"^^xsd:string ;
+	c:hasBID "8"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """sp 165"""^^xsd:string .
+c:Building_9
+	rdf:type c:Building ;
+	rdfs:label "Building_9"^^xsd:string ;
+	c:hasBID "9"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """W: sp 166    E: sp 167"""^^xsd:string .
+c:Building_10
+	rdf:type c:Building ;
+	rdfs:label "Building_10"^^xsd:string ;
+	c:hasBID "10"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_12
+	rdf:type c:Building ;
+	rdfs:label "Building_12"^^xsd:string ;
+	c:hasBID "12"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Heavily surface eroded, reamins of a building above b.77."""^^xsd:string .
+c:Building_13
+	rdf:type c:Building ;
+	rdfs:label "Building_13"^^xsd:string ;
+	c:hasBID "13"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """comprises of the heavily eroded space 244, given building number to allow phasing"""^^xsd:string .
+c:Building_16
+	rdf:type c:Building ;
+	rdfs:label "Building_16"^^xsd:string ;
+	c:hasBID "16"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """MELLAART SHRINE 8 at Level IX. E.IX.8 
+Excavated by Mellaart except for walls"""^^xsd:string .
+c:Building_17
+	rdf:type c:Building ;
+	rdfs:label "Building_17"^^xsd:string ;
+	c:hasBID "17"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """sp 170, 182"""^^xsd:string .
+c:Building_18
+	rdf:type c:Building ;
+	rdfs:label "Building_18"^^xsd:string ;
+	c:hasBID "18"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Mellaart's Shrine 8 through which deep sounding excavated. 
+Space 171 southern ledge as left in 1960's
+Excavated in 1960s as E.X.8 . N: sp 172     S:sp171"""^^xsd:string .
+c:Building_20
+	rdf:type c:Building ;
+	rdfs:label "Building_20"^^xsd:string ;
+	c:hasBID "20"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """sp 175"""^^xsd:string .
+c:Building_21
+	rdf:type c:Building ;
+	rdfs:label "Building_21"^^xsd:string ;
+	c:hasBID "21"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """NB/At some stage  B.21 may have been numbered as B.19 , which has been deleted (SF 2302/10)"""^^xsd:string .
+c:Building_22
+	rdf:type c:Building ;
+	rdfs:label "Building_22"^^xsd:string ;
+	c:hasBID "22"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Mellaart's Shrine 1. E.IX.I
+All except walls excavated in the 1960's"""^^xsd:string .
+c:Building_23
+	rdf:type c:Building ;
+	rdfs:label "Building_23"^^xsd:string ;
+	c:hasBID "23"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """sp 178, 179"""^^xsd:string .
+c:Building_24
+	rdf:type c:Building ;
+	rdfs:label "Building_24"^^xsd:string ;
+	c:hasBID "24"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Mellaart Shrine 10.VII"""^^xsd:string .
+c:Building_25
+	rdf:type c:Building ;
+	rdfs:label "Building_25"^^xsd:string ;
+	c:hasBID "25"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_29
+	rdf:type c:Building ;
+	rdfs:label "Building_29"^^xsd:string ;
+	c:hasBID "29"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """This number was allocated to Space 202 (by JAL) during excavations of foundation trench, south 2002. Apart from number being taken out , there does not seem to be any other ref. to it and could be scrapped, but keeping it just in case. Therefore sama as Building 42 (SF 04.06)"""^^xsd:string .
+c:Building_33
+	rdf:type c:Building ;
+	rdfs:label "Building_33"^^xsd:string ;
+	c:hasBID "33"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_34
+	rdf:type c:Building ;
+	rdfs:label "Building_34"^^xsd:string ;
+	c:hasBID "34"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_40
+	rdf:type c:Building ;
+	rdfs:label "Building_40"^^xsd:string ;
+	c:hasBID "40"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Excavated by Mellaart as as two houses. E.VII.2 (sp107) excavated of fill and features to flat horizon and House E.VII.12 (sp108) excavated of fill and occupation through to underlying midden with slivers of unexcavated occupation sequence against E and N walls. Only E portion of sp 108 represented in excavation area, rest of house lies beyond L.O.E to W. Picked up by Hodder team in 1995. Defined and excavated basal floor remnants in sp.107 and remnants occupation in sp.108. Excavation of walls revealed blocked doorway therefore formed one building in original phase."""^^xsd:string .
+c:Building_41
+	rdf:type c:Building ;
+	rdfs:label "Building_41"^^xsd:string ;
+	c:hasBID "41"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Late building on the lower summit of the East mound. The building is square in form with internal divisions including a small plastered floor surface. A later extension appears to have been added to the south of the building. The building mainly survived as foundations which were deep(almost 1m), but areas of wall collapse were excavated around the edges of the building."""^^xsd:string .
+c:Building_42
+	rdf:type c:Building ;
+	rdfs:label "Building_42"^^xsd:string ;
+	c:hasBID "42"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building 42 is an extremely truncated building in south shelter, the southern extent of which was excavated in 2002. B42 is defined by walls F826,F827 and F825 to E,S +W respectively. W + N limit defined by truncation due to Mellaarts excavations. B42 appears to be built over midden to E and earlier building to west.          The main internal features of B42 are similar to those in many other buildings at Catal- platforms F1501+2 to NE +E, bench F1503 on E wall, platform F1510 to S, oven F828 to S and hearths F1507+1520 to W. Building is thought to be level IV or V. A major difference between this building and others is the low number of phases in comparison to 'standard' Catal houses even though the layout is similar: for instance platforms F1501+2 consist  of 3 and 4  episodes of make up and plastering only.                 A domestic aspect to the  house is reflected in hearths F1507+1520 and oven F828, these are located in S part of building, hearth F1520 may have been used for a ?considerable time before being refurbished as F1507.       The main focus of activity appears to have been concentrated on the eastern part of the building within platforms F1501+2 + bench F1503. In fact this division of space (activity?) was layed out in the initial stages and appears to have been planned and part of an intended design from the start.         F1519 divides up the area within  B42, along with bench F1503 into areas for platforms, areas for oven and hearth and floor area. So platforms- special / ritual; oven/hearth- dirty; floor- clean? Even before F1519 constructed, burial F1517 had picked out space which was to become F1501 for special attention.        The platforms 1501+2 + bench 1503 in east of B42 appear to be a focus for activity, particularly burial activity. F1517 has already been mentioned, but burials F1513,1514,1511,1512 were all located on these platforms and all but F1512 were cut through make up (not plaster) before being plastered over, suggesting presentation was an important aspect of these areas. These platforms and bench consist of 3 or 4 phases only, of make up and plastering pos suggesting short lived or unworn/unused and therefore special/different in nature. This is reinforced by suggestion of bucrania on both platforms by niches F1508+9- shrine aspect to building??                   So B42 would appear to be a special house suggested by special burials F1517 with plastered skull, burials into make up, not plaster on F1501+2; the complete marble mother goddess figurine (10475x2); the high finish to platforms and bench in terms of plaster and adornment -bucrania; the few phses of plastering on bench and platforms.        There is also the aspect of zoning and planning, this is a well thought out building; F1519 dividing up interior, F1517 located in a specific place. These zones then appear constant throughout lifetime of building, platforms stay platforms, bench stays as bench, the focal, ritual, clean and dirty areas are constant.      So although B42 has many aspects/ similarities to standard Catal houses ther are times when it sets itself  apart and appears to favour a more 'ritualised' (maybe less domestic?) persona. It would appear that the people who built and utilised this building intended this from the start and didnt stray from their intentions and continued to 'remake the building in its original image.'"""^^xsd:string .
+c:Building_43
+	rdf:type c:Building ;
+	rdfs:label "Building_43"^^xsd:string ;
+	c:hasBID "43"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Same as Mellaarts E.VIII.27"""^^xsd:string .
+c:Building_44
+	rdf:type c:Building ;
+	rdfs:label "Building_44"^^xsd:string ;
+	c:hasBID "44"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """The main internal part of the building, Space 120, consisted of a rough rectangular shape measuring 4.40-4.60m east-west and 4.60m-5.40m north-south. A small rectangular ‘bay’ measuring 2.60m by 1.40m lay at the northeast of the structure.  
+
+The walls of Building 44 consisted of walls F.104, F.1340 and F.1341 respectively forming the western, eastern and southern walls of the structure with walls F.1323, F.1324 and F.1339 comprising the arrangement of walls to the north. 
+
+It is also now apparent that Building 44 continues to the east beyond the current edge of excavation, access probably gained by a disturbed crawl-hole in the south-east corner of the building."""^^xsd:string .
+c:Building_45
+	rdf:type c:Building ;
+	rdfs:label "Building_45"^^xsd:string ;
+	c:hasBID "45"^^xsd:integer ;
+	c:burnt "true"^^xsd:boolean ;
+	c:description """Large Neolithic building, over 7m square. Consists of a main activity space 228 and side room 238. Access to this secondary space was through a crawlhole located in the SW corner of space 228.
+An oven is located in the SE corner of space 228 (F. 1415) and this is probably where an access ladder was located. Between the oven and the crawlhole are two large platforms (F. 1410, 1411). The western platform is of an earlier date and the eastern platform appears to have been constructed over an earlier feature, possibly an oven. Both platforms have evidence of burning on them. The northern platform slumps steeply to the south and is cut by both Neolithic and later features.
+Between the northern and southern platforms runs a lip in the floor (F. 1428) which divides a series of clean floors to the east from dirtier floors to the west. At the edge of the northern platform (F. 1409) a molded clay pillar survives to the height of 0.15m. Originally this feature had a square base but later alterations changed this to be rectangular in shape.
+At he western side of space 228 an engaged pillastar is visible as a scar in the wall plaster. This feature was robbed out prior to the buildings destruction. The eastern platform in space 228 (F. 1408) is heavily truncated and only a thin strip of the western edge survives.
+Space 238 appears to have been a storage area. Two bins were found at he northern end (F. 1426). The space also contained several animal skulls and two baby burials cot into the floor (F. 1430, 1431). The space was destroyed by fire, apparently originating at the northern end of the room. This resulted in the room being filled with burnt mudbrick, evidence of in-situ burning of timbers survives around the crawlway. Space 228 by contrast appears to have escaped any serious damage by fire."""^^xsd:string .
+c:Building_46
+	rdf:type c:Building ;
+	rdfs:label "Building_46"^^xsd:string ;
+	c:hasBID "46"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building 46 was poorly preserved; the structure was located very close to the surface of the mound and had been heavily eroded. These walls of Building 46 were constructed on top of the walls of Building 48, following the same plan. However the later walls were not directly above the earlier walls but were offset by about 40mm. The building was constructed directly over Building 48, with no evidence of an occupational hiatus between the buildings.
+
+The walls of Building 46 were constructed in shallow foundation trenches. Beneath the western wall of the building a layer of grey ashy material (11108) was used as a levelling deposit. Building 46 was defined by mudbrick walls F.1800, F.1801 and F.1802. The northern wall of Building 46, was entirely eroded away, and the northern extent of the structure therefore could not be established. The mudbrick used in the construction of Building 46 consisted of light yellow brown silty clay.  The mortar was light grey brown silty clay. The walls survived of only 2 or 3 courses of mudbrick and were up to 0.30m high. Building 46 is an eroded building whose northern wall has not been preserved as well as its features. Thus, the phasing of the building is unclear_ all features within the walls have been truncated or eroded away. The fill within the three walls that may be associated with its early building phase are 11100 and 11102 which are the same. The infill  contained very few artifacts, it mostly consisted of rubble. (mortar, mudbrick, and plaster chunks) The walls of this building did not have a plastered surface. The walls consisted of badly preserved 2 to 3 courses of mud brick with mortar in between. The bricks were orangish light brown in color and had a texture of a silty clay loan. The mortar had a blocker structure with a colour of light greyish brown. The walls were removed to uncover building 48 which lay right underneath them."""^^xsd:string .
+c:Building_47
+	rdf:type c:Building ;
+	rdfs:label "Building_47"^^xsd:string ;
+	c:hasBID "47"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """FOR THE INTERIOR OF HE BUILDING SEE SPACE SHEET 237. !                                                                     Building 47 is the latest stracture in the area , postdating allthe other features and stractures. The specialists reporsts (specially pot) indicate that the building 47 and its interior. Is level IV. The evidences they bring are quite convicing.         The identified and excavated three sides of the building. The northern wall was probably eroded away. We have some traces of grey bricks (such as feature 1560) in the area. We can only assume that the wall was placed on top of the very thick earlier wall that runs E-W in the area. We know that the western wall of the building did exactly that (reused an earlier wall to be set on top of.                            The eastern wall is a row of a grey bricks (only one course 10235 left) set on top of a shorter row of red bricks (10243) which can be either the make up for 10235 or again an earlier wall reused. Because of this second possibilty , we left earlier wall 10249 in place . Southern end of eastern wall consist of a thiner wall (therfore creating a niche in space 237) unit 10262 and a thick wall , earlier , reused , which is the western wall of the abutting building.              The southern wall is very solid , three courses of grey bricks preserved, makes a nice corner and would have joined 1562 but it was truncated by a byzantine grave.                  Western side of the building consist of two things;                 western wall which is constantly  the same at all levels.´       western raised area (platform) which has three courses of bricks with three different layouts.                                         The first two courses are probably different ways of constructing in the same phase, but the third one is a different phase . We know that because the the plaster floors in space 237 come against and go up on the first two courses of bricks (10253;10231) while the third coarse (10220) extends east and covers the floors. This means that of some stage the inhabitants of building 47 decided to extend the grey brick platform twords east."""^^xsd:string .
+c:Building_48
+	rdf:type c:Building ;
+	rdfs:label "Building_48"^^xsd:string ;
+	c:hasBID "48"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building 48 is a small structure, measuring 2.40m by 4.90m, located directly to the east of Building 49 in the 4040 excavation area. Building 48 comprised of two rooms; a lager southern room (Space 239) and a smaller northern room Space (234), possibly representing a storage area. Building 48 was excavated to the latest occupation horizon by the Berkeley Field School team between the 14th of July until and the 2nd August 2004. Building 48 was sealed by the heavily truncated remains of Building 46.
+Building 46 was heavily truncated by erosion at the surface of the mound. Only three walls of this later structure survived, with no occupation deposits surviving. 
+
+Building 48 was defined by mudbrick walls F.1820, F.1821, F.1822 and F.1824, which measured 0.18-0.30m thick. These walls were constructed of T light orange mud brick and a dark grey friable silty clay mortar. An internal mudbrick wall F.1818 was constructed from red brown clay silt and divided northern Space 234 from southern Space 239. A doorway at the eastern side of the wall allowed access between the two spaces."""^^xsd:string .
+c:Building_49
+	rdf:type c:Building ;
+	rdfs:label "Building_49"^^xsd:string ;
+	c:hasBID "49"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building 49 is located in the 4040 area, within grid squares 1050N/1165E and 1050N/1170E. Building 49 had an irregular floor plan, with the northeast corner indented. The building measured approximately 3.85m north-south and 4.30m east-west; with an internal ground plan of c.14.70 sqm.  Building 49 consisted of a central occupation area, Space 100, and a smaller side room, Space 334. Building 49 was constructed on the same footprint of an earlier building; however the walls were slightly offset.
+
+To the north of Building 49 Spaces 103 and 97 were defined during the 1993-94 surface scrape. Neither spaces have been excavated, and hence are poorly understood; however they probably represent further buildings extending to the north. On all other sides Building 49 was bounded by houses, although it shared no common walls with these structures. To the east Building 48 is another small house, consisting of Space 239 and a small northern storage area Space 234. To the south Building 82 consists of Spaces 229 an external Space 241. To the west Space 98 is associated with Building 51, and was built following the burning of Building 52.
+
+The excavation of Building 49 was initially undertaken by the Stanford University field school in the 2003 and 2004 seasons. Excavation of the building was continued in the 2006 and 2008 seasons by the Çatalhöyük Research Project. Building 49 was completely excavated in order to understand the occupational sequence within the structure. Despite its diminutive size Building 49 contained a complex stratigraphic sequence, and represents an architecturally and decoratively elaborate house. The depth of deposits within the building, with evidence of numerous architectural alterations and additions suggests that the house was occupied for a considerable period of time. Despite constant alteration of the building there is also great continuity, with most major features used throughout the occupation. This continuity can also be seen in the reuse of material from earlier construction phases when altering features within the building.
+
+Excavation revealed a typical pattern of dirtier floors in the south of the building, associated with a hearth and an oven, and cleaner white floors in the north. The central floors of the building appear to represent more mixed use with both clean and dirty surfaces. The patchy, worn nature of the floors across the centre of the building indicates regular use. As with most of the houses excavated at the site, most of the surfaces inside Building 49 appear to have been kept very clean during its use, and as a result relatively few finds were recovered from stratified occupation deposits. Several areas of painted plaster were present in Building 49, including geometric wall paintings with red and black paint, walls and features painted solid red, as well as more figurative decoration on the face of the northwest platform. Hearth or oven F.1665 was located in SE corner of Building 49, a typical position for such fire instillations. This feature was sub-rectangular in plan and built against platform F.1666 and a combination of hearth rebuilds and additions to the platform resulted in an expansion of platform F.1666 to the east. The location and size and activities associated with western Space 234 fits a pattern of these small side rooms being used as storage rooms.
+
+Fifteen burials were excavated from Building 49. Fourteen individuals were buried under the northern to platforms and the limbless torso of an older individual was buried in the central area of the building. The majority of the skeletons were disturbed, including six which were missing their skulls and other bones. All of the burials were tightly flexed and several of the burials included grave goods. It is in the northern area that the majority of the painted decoration was concentrated, and this may be in some way associated with the burial process.                                                                                                                                                                    2006:
+Excavation of building 49 continued in the later part of the 2006 season and continues to be an interesting structure. The depth and complexity of the stratigraphy within space 100 contrasts sharply with the diminutive size of the building. The building was obviously occupied for a considerable period of time and the patchy worn floors across the centre of the building suggest heavy and regular use. The typical pattern of dirtier floors in the south of the building, associated with hearths and ovens, and cleaner white floors in the north appears to replicated here. The central floor are of the building appears to represent more mixed use with both clean and dirty floors.
+
+The stratigraphy of building 49 is particularly complex and represents the constant alteration and modification of the space with what appears to be puzzling frequency. As well as the addition of new floors and features there is also a constant cutting back and re-modelling of earlier features, as if the occupants are never quite happy with their living environment.
+
+Both the building infill of building 49 and the fill of post retrieval pit [13641] contained horn cores and other interesting animal bones. The material recovered from the post retrieval pit this season was not deliberately placed but dumped within a mixed demolition fill. It is far from clear to me whether this material was deliberately included within the fill or simply dumped material it was not considered worth salvaging during the demolition of the building.
+
+Burial F1492, which cut through the construction layer of platform F1656, was undoubtedly curious. The burial consisted of the limbless torso of an older male with the legs, arms and shoulder blades all removed prior to burial. The ribs and sternum were in place indicating the body was at least partially fleshed at the time of burial. If the initial analysis of the bones is correct, and no cut marks are present, this suggests the body must have been heavily de-fleshed prior to the removal of the limbs and its subsequent burial.
+
+The plaster was removed from sections of the northern and western walls of building 49, directly above the NW platform F1651. Several layers of painted plaster were encountered. On the northern later layer of paint appeared to consist of a solid red colour. Earlier layers 13669 contained geometric designs in red and black paint. Similarly on the western wall a series of overlying  designs 13676, in red and black paint, were recorded. The paintings appear to have been plastered over relatively quickly and then repainted, an identical design was repainted in exactly the same location each time. The designs on the different layers match so closely it is at times difficult to tell them apart.
+
+On the western wall the painting appears to be very early in the sequence, a micro-morphology sample taken from the wall will allow the number of layers of plaster to be counted. Initial examination with the naked eye suggest and initial thick foundation layer was put on the wall, the first few layers of plaster contain the painted designs, these are then sealed by a second thick make up layer and then a series of typically thin re-plastering events."""^^xsd:string .
+c:Building_50
+	rdf:type c:Building ;
+	rdfs:label "Building_50"^^xsd:string ;
+	c:hasBID "50"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """MELLAART SHRINE 9 E.VII.7 space 112, extended northwards in 2003 to excavate whole builing incorporated under shelter in 2001"""^^xsd:string .
+c:Building_51
+	rdf:type c:Building ;
+	rdfs:label "Building_51"^^xsd:string ;
+	c:hasBID "51"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building 51 comprised a single small room Space 98. Two stepped platforms lay against the north wall with a niche cut into the east wall leading on to the NE platform and a post pit at the southern end of it. Phytolith traces of a woven mat were also clearly preserved on the surface of the NE platform. The southern area of the building functioned as the food production area with a hearth surrounded by a raised boundary. There was no oven but the hearth was set relatively close to the southern wall in the position where ovens are frequently positioned and is the likely location of the entrance ladder. Positioned in the southeastern corner were a bench, a pedestal, and a double basin. 
+The most important piece of information about this structure is that it appears to have been built as a replacement for Building 52, which was destroyed by fire. Building 51 was constructed within the walls of a cleared out area of the burnt building in the northeast corner. (updated SF Sept 2009"""^^xsd:string .
+c:Building_52
+	rdf:type c:Building ;
+	rdfs:label "Building_52"^^xsd:string ;
+	c:hasBID "52"^^xsd:integer ;
+	c:burnt "true"^^xsd:boolean ;
+	c:description """B52 is located north from the "street" and south from the possible open area S90. Spaces 91, 92, 93, 94 form the western part of the building, whileits eastern part is covered by the construction of B51. There seem to have been two other spaces 254 and 255 part of the same building since there is a crawl hole between S94 and S254 and since S255 and S94 under the B51, have a common burnt wall. Nevertheless, S91 and S92 seem to have been a later addition to B52, but it is possible that in that area there were spaces related to B52 also previously, but they got backfilled and walking level raised. The disuse of B52 seems to have been an accidental fire, that caused the burning of the walls and their collapse inside the rooms. Subsequently B51 was constructed directly in it, in the eastern half, very close to the floor. This was done by cuting through the burnt infill at lest one meter deep, with a precise lcation on an existing internal division line. This indicates that the construction of B51 occurred relatively close after the destruction of B52. NOTE  - Space 254 is void and has been replaced by space 290 and 291. (DE 22-07-06)"""^^xsd:string .
+c:Building_53
+	rdf:type c:Building ;
+	rdfs:label "Building_53"^^xsd:string ;
+	c:hasBID "53"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Excavation of building not completed during 2005 season. Defined by walls F1523, F1524 on east and north, south is under shelter foundation, western wall F1527 is probably internal so western edge defied by truncation / erosion to west of F1527. (SMcC) Below B.29/42 sequence on S edge of South Area. Full extent unknown as continues beyond L.O.E to S and heavily eroded and collapsed to N and W as formed Mellaarts L.O.E too. Part of this sequence may have been excavated for the foundations of the South shelter (2002). Sequence excavated was heavily disturbed by animal burrows, consisted of infill, northern plaster floor sequence of large room and remnants of small room and building walls. (SF 2010)."""^^xsd:string .
+c:Building_54
+	rdf:type c:Building ;
+	rdfs:label "Building_54"^^xsd:string ;
+	c:hasBID "54"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """B54 was constructed next to the southern wall of 58 and next to the eastern wall of 57, which could be an indicator of contemporaneity. It could also be later since the floor level in 54 is a lot higher than in the other two.This is also the reason for almost all the floors to be erroded away and so we only got to excavate some fetures preserved in S264 and the burriels under the floors. We exposed the walls of buildings underneath, so now walls of B54 should be excavated. We only managed to remove 2138 by the end of this season , the rest of them being left for next year."""^^xsd:string .
+c:Building_55
+	rdf:type c:Building ;
+	rdfs:label "Building_55"^^xsd:string ;
+	c:hasBID "55"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Large building with a sqaure main space (SP256) and a northern storage room. May extend to west under midden see discussion on space sheets."""^^xsd:string .
+c:Building_56
+	rdf:type c:Building ;
+	rdfs:label "Building_56"^^xsd:string ;
+	c:hasBID "56"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """level V-IV     The building was defined at the south and east, by walls F.2069 and F.2070, with walls F.2066, F.2073 and F.2067 forming the western side of the structure. The north walls were defined by walls F. 1323, F.1342 and F.1339.   Although much of the western area of the building had been truncated the original east west dimensions of the structure ranged between 6.0m-c.6.5m, with the north south dimensions measuring 4.40-4.60m. 
+
+The building consisted of two rooms or spaces with Space 121 delineating the main eastern room with Space 123 defining a storage area at the west of the structure.  A third area, Space 122 was formed by the blocking of a platform area at the north west of the structure."""^^xsd:string .
+c:Building_57
+	rdf:type c:Building ;
+	rdfs:label "Building_57"^^xsd:string ;
+	c:hasBID "57"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building 57 consists of S.269, and, perhaps, space 270 - a small room to the N of the "main room". The entire room is cut by a huge late foundation trench. As there exists no visible access point from 269 to 270, the following discussion will focus on S.269. Much canot be said yet as the building has only been excavated to the last surviving  phases.   Walls: interior faces entirely plastered with the exception of the later, southern interior wall (F. 2107) and rectangular sections where the mudbrick is exposed one in S wall 2113 and one above the bench in E wall 2117 right above the bench. E wall 2115 has 2 outcrops into the room,the more southern of which is cut at its end perhaps by a post retrieval (?) pit. A semicircular, plastered niche is located in the NE corner of this room (F. 2135). A "cache" of household tools in 2171 and a small obsidian cluster (U 12132) were the only significant concentrations of finds, otherwise the room fill was nearly sterile. Interior features display several phases of habitation, not all of them worked out yet. A large plastered pillar (F. 2132) seemilngly survived several different phases of th house. While its plaster is connected at one point to the rim of bench/truncated platform 2150, it also extends downwards past the excavated surfaces. Another feature that extends through several use phases is oven F. 2110. It abuts the older wall 2113, but the later wall 2107 was built up against it on either side, leaving its use face exposed. It sits on top of another square hearth, 2134, but I think the two might have been in use at the same time and the 2134 was later replaced by another surface, now preserved as a narrow lip at thebase of 2110 with a trace of burning on its surface. Most of the southern surfaces seem to be in phase: 2151 and 2133 both connect to the smooth floor which seems to be up against (?) hearth 2134. In the SE corner of the room, the floor breaks up into a mixed, "dirty" surface containing lots of bone and debris. This was not excavated; I think it is in phase with the floor surface. The sequence of floor/ living surfaces is increasingly complex in the northern part of the room. Currently visible post-excavation are one floor, later coeverd by mudbrick packing that displayed use compaction and is built up against bench/truncated platform 2150: 2150 is probably contemporary with the lowr surface but still in use with the second surface.  Due to the late trench cutting the room, I cannot with confidence distinguish phases across the whole room, but: the S part of the room displays at least 3 phases: that of eariler hearth 2134 (#1), then the phase with the bench, platform, and 2nd (truncated) hearth and the basin 2132 (#2); later still the phase corresponding to the late wall 2107, the floor of which has been lost (#3). NW part of B 57: #1: lower floor and bench/platform 2150 (?). #2: Surface up against 2150. #3: Pt cut through both these suraces by wall outcrop. Within the liefspan of this building, the life of pillar extends through all the phases and eariler still, and the chronological placement of niche 2171 is uncertain. NE corner of room: wall, flor, niche, lip of platform, all in one phase (?). The bottom of the late trench reveals yet another, earlier, white plaster floor level but the real sequece of phases will remain unclear pending further excavation. UK"""^^xsd:string .
+c:Building_58
+	rdf:type c:Building ;
+	rdfs:label "Building_58"^^xsd:string ;
+	c:hasBID "58"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """East of building 55 and north east og buildibng 57, probably of the same phase as those buildings. See discussion on space sheets"""^^xsd:string .
+c:Building_59
+	rdf:type c:Building ;
+	rdfs:label "Building_59"^^xsd:string ;
+	c:hasBID "59"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_60
+	rdf:type c:Building ;
+	rdfs:label "Building_60"^^xsd:string ;
+	c:hasBID "60"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Heavly truncated structure, only the SE corner survives, would appear to follow the same plan form as B.59 below."""^^xsd:string .
+c:Building_61
+	rdf:type c:Building ;
+	rdfs:label "Building_61"^^xsd:string ;
+	c:hasBID "61"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Level I - 0"""^^xsd:string .
+c:Building_62
+	rdf:type c:Building ;
+	rdfs:label "Building_62"^^xsd:string ;
+	c:hasBID "62"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Level II-I"""^^xsd:string .
+c:Building_63
+	rdf:type c:Building ;
+	rdfs:label "Building_63"^^xsd:string ;
+	c:hasBID "63"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building 63 is partially excavated.The N and E sections lie under the unexcavated area.The exposed part is the SW of building.It has two spaces/rooms.It has two phases (building phases/renewals after fire).The exposed level (in 2005&2006) in the late phase.It's heavily burnt on South.It can be an accidental fire which caused its destruction.Heavy finds espacially the ground stone objects as a mace head,grinding stones,polishing stones(2) were found in the SW space 283.Naturel and various stones ; a crystal(?),a stalagmite  etc.. seem to be collected as finds too.The early phase,Ph1, is not excavated except S283.The present phase(13-07-2006) is Phase 2.                                                                                    Phase1:  (in space 283) has a heavily burnt fill.The mudbrick fragments,fragments of collapsed roof (fragments with parallel grooves,inidicated the use of reeds(?) )Since it is only excavated on the E half of the space -not much is known about it.After the removal of Phase2 (one of the objectives of 2006 compaign)-it will be possible to interpretPhase1.                             Phase2:The probable fire (in Phase1)caused the Building to be renewed.It is mostly possible that in 283 ,a new floor and min.2 bins were constructed.The late floor has a post base on its NE corner.The kerb on which implies that the platforms (1993&1994) also belong to Phase2. Spae284 was destroyed on S by intrusive pits and channel-like disturbance(documanted in 2005).Hearth 1995 was partially excavated-partially preserved.Its floor is exposed all over the space except the destroyed southern section.                               Space 285 is N of 284.It is not physically divided from 284.Platform 1993 is the southern limit of space 285. A pedestal (F1991)on the SW corner and a clay box (F1980)on W,both lead on the wall of space 285;    i.e: the partition wall between 289 an 285 . F1992 is the kerb separating an ashy and burnt area on the very N of the space.The burnt area seems to be the rest of a hearth(?) all belonging to Phase2,the renewal phase after a fire."""^^xsd:string .
+c:Building_64
+	rdf:type c:Building ;
+	rdfs:label "Building_64"^^xsd:string ;
+	c:hasBID "64"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Large wedge shaped building. The shape of the building suggests that it was fitted into a space between already constructed buildings or it followed a previous oddly shaped building. The building is contemporary with building 59, with the pits and midden that followed the building contemporary with building 60. See more detailed discussion on the space sheets"""^^xsd:string .
+c:Building_65
+	rdf:type c:Building ;
+	rdfs:label "Building_65"^^xsd:string ;
+	c:hasBID "65"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """The building was defined by walls F.2511, F.2512 and F.2513 at the north, with truncated wall F.2515 at the west and wall F. 2510 at the east. The walls defining the south of the structure were F.2505, F.2506, F.2507, F.2508 and F.2509. Internal wall F.2514 divided the main room Space 297 from a storage area Space 298 at the west.  (Building dimensions).  Crawl holes lay at the north and south linking with external areas these respectively Space 314 and Space 299/305. All the walls of the building were structurally tied into one another at the junctions indicating all walls were present within the initial build."""^^xsd:string .
+c:Building_66
+	rdf:type c:Building ;
+	rdfs:label "Building_66"^^xsd:string ;
+	c:hasBID "66"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """below midden Space 280"""^^xsd:string .
+c:Building_67
+	rdf:type c:Building ;
+	rdfs:label "Building_67"^^xsd:string ;
+	c:hasBID "67"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Located in the far southeastern area of this season's 4040 excavation was Building 67. The vague outline of the structure was exposed after the removal of Building 47 in 2004 season.  Building 47 was believed to be of later levels (Hodder Lv.H) and also demonstrated architectural features similar to the Chalcolithic buildings excavated on the Çatal west mound and was therefore, believed to be very late in the levels of occupation of the east mound, a possible transition phase.  Building 67 also appeared to differ in architectural style and as such was also thought to be considerably later than nearby buildings such as Building 58 to the west. The 2006 season saw the removal of infill from the internal spaces (292, 293, 304 and 308) in an attempt to see the full, in phase, extent of the structure, and understand its relationship with Building 58 to the west.The main building appears to be formed of three spaces, a large rectangular room, Space 308, to the north of which is a small cell Space 293 separated from Space 308 by a dividing wall F.2359. To the east is a large space equal in size to all the other spaces combined, it has a plastered floor with the remains of a large platform. However, it has suffered heavily from erosion and no walls east of F.2363 remain. No excavations were conducted in this area during the 2006 season. To the west of the main building an extension appears to have been constructed (based on unexcavated wall alignments) creating two side rooms Spaces 292 and 304, these unadorned rooms were probably used for storage or functioned as a work space based on objects removed from the basal deposits or those in situ on the floor.Two small spaces to the north of the building were also excavated both of which turned out to be external spaces (300 and 307) between the outer northern wall F.2358 and some form of external retaining wall F.2360; within this space were two rough bracing stub walls features F.2361 and F.2362. The between wall space between Building 58 to the west and Building 67 was also excavated. (MWH 17/07/10)"""^^xsd:string .
+c:Building_68
+	rdf:type c:Building ;
+	rdfs:label "Building_68"^^xsd:string ;
+	c:hasBID "68"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """space VI - V"""^^xsd:string .
+c:Building_69
+	rdf:type c:Building ;
+	rdfs:label "Building_69"^^xsd:string ;
+	c:hasBID "69"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Level V - VI very truncated building situated north of building 56"""^^xsd:string .
+c:Building_70
+	rdf:type c:Building ;
+	rdfs:label "Building_70"^^xsd:string ;
+	c:hasBID "70"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_71
+	rdf:type c:Building ;
+	rdfs:label "Building_71"^^xsd:string ;
+	c:hasBID "71"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_72
+	rdf:type c:Building ;
+	rdfs:label "Building_72"^^xsd:string ;
+	c:hasBID "72"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_73
+	rdf:type c:Building ;
+	rdfs:label "Building_73"^^xsd:string ;
+	c:hasBID "73"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_74
+	rdf:type c:Building ;
+	rdfs:label "Building_74"^^xsd:string ;
+	c:hasBID "74"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_75
+	rdf:type c:Building ;
+	rdfs:label "Building_75"^^xsd:string ;
+	c:hasBID "75"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Shallow remains of building midway throught the South Sequence. Apparently contiguous with Spaces 333 and 329. Badly truncated on the its western side by Mellaarts section. Survival of this building was also limited, due to a major truncation event (in antiquity), related to remodlling and prossible terracing of the area, defined as (16224)."""^^xsd:string .
+c:Building_76
+	rdf:type c:Building ;
+	rdfs:label "Building_76"^^xsd:string ;
+	c:hasBID "76"^^xsd:integer ;
+	c:burnt "true"^^xsd:boolean ;
+	c:description """B.76 was excavated in the 1960s but not marked on any published plans. It lies to the south of E.VIA.32 & E.VIAB.27 . It appears to be F.VIB.70 in AS 1966 pg 74 plate XXXIVc. On Figs 1 & 2 1964, EVI.32 appears to be  a store room to F.VIB.70. Therefore is F.VIB.70 same as E.VI.32 ?  (SF 2010)                                                       Excavated to floor horizon in 1960s therefore heavily eroded and denuded. The main body of the structure was trapezoid shape in plan with the eastern wall extending. slightly further at 6.0m than the western at 4.5m, the room being between 5.0m-5.5m wide.
+The internal space was divided into a small square room in the northwest corner Sp.368, 1.9m (N-S) x 1.5m (E-W) with no visible entrance or formal floors and most likely a small storage room. Features that survived in the larger L-shaped room Space 137, contained three platforms and a bench against the eastern wall and two platforms against the southern wall, two ovens, one F.3415 below the ladder in the SE corner and a second F.3412 just to the west on platform F.3411 of which only the base survived (copied from 2009 Archive Report)"""^^xsd:string .
+c:Building_77
+	rdf:type c:Building ;
+	rdfs:label "Building_77"^^xsd:string ;
+	c:hasBID "77"^^xsd:integer ;
+	c:burnt "true"^^xsd:boolean ;
+	c:description """Elaborate building highly Burnt, excavated down on to latest floors (2008 season) Two spaces 337 storage room to the west of Sp.336 a large highly decorated living area. MWH"""^^xsd:string .
+c:Building_78
+	rdf:type c:Building ;
+	rdfs:label "Building_78"^^xsd:string ;
+	c:hasBID "78"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_79
+	rdf:type c:Building ;
+	rdfs:label "Building_79"^^xsd:string ;
+	c:hasBID "79"^^xsd:integer ;
+	c:burnt "true"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_80
+	rdf:type c:Building ;
+	rdfs:label "Building_80"^^xsd:string ;
+	c:hasBID "80"^^xsd:integer ;
+	c:burnt "true"^^xsd:boolean ;
+	c:description """Mixed fill of burnt rubble but also  managed fill (SF 21/10/2010)"""^^xsd:string .
+c:Building_81
+	rdf:type c:Building ;
+	rdfs:label "Building_81"^^xsd:string ;
+	c:hasBID "81"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_82
+	rdf:type c:Building ;
+	rdfs:label "Building_82"^^xsd:string ;
+	c:hasBID "82"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_83
+	rdf:type c:Building ;
+	rdfs:label "Building_83"^^xsd:string ;
+	c:hasBID "83"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Unexcavated building in the same foot print as B.59, some of the internal walls can be seen and were incoperated into the later building, as were some of the external walls. 8.40m x 5.50m (Internal space)"""^^xsd:string .
+c:Building_84
+	rdf:type c:Building ;
+	rdfs:label "Building_84"^^xsd:string ;
+	c:hasBID "84"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Outline of building defined only. Upper 0.1 - 0.2 m infill  (17913) extavated to define building plan which is same as overlying B.49, just ever so slightly off set in places. B.49 therefore founded on pre existing footprint. The infill of building 84 is grey and red and is clearly derived from wall and mortar crush as the bricks of building 84 are a distinct dark grey colour and the mortar very orange. The wall faces are thickly plastered. (SF Sept 2008)"""^^xsd:string .
+c:Building_85
+	rdf:type c:Building ;
+	rdfs:label "Building_85"^^xsd:string ;
+	c:hasBID "85"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_86
+	rdf:type c:Building ;
+	rdfs:label "Building_86"^^xsd:string ;
+	c:hasBID "86"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_87
+	rdf:type c:Building ;
+	rdfs:label "Building_87"^^xsd:string ;
+	c:hasBID "87"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_88
+	rdf:type c:Building ;
+	rdfs:label "Building_88"^^xsd:string ;
+	c:hasBID "88"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """comprises of sp.309 and unexcavated spaces to north (LY)"""^^xsd:string .
+c:Building_89
+	rdf:type c:Building ;
+	rdfs:label "Building_89"^^xsd:string ;
+	c:hasBID "89"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Same plan as overlying B.76 consisting two rooms, small NW Space 378 and larger Space 379. Outline exposed end of 2009 season only (allocated in post ex SF 11/03/10)"""^^xsd:string .
+c:Building_91
+	rdf:type c:Building ;
+	rdfs:label "Building_91"^^xsd:string ;
+	c:hasBID "91"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """At the corner of the NW FT a NE sector of E.VII.27 was excavated as B.91 consisting of two spaces Sp.203 to the north and Sp.204 to the south. Wall F.819 formed the north wall of bricks (5737/5755) and mortar (5757). To the east was wall F.817, with bricks (5752) and plaster render on the internal face of both F.819 and F.817, and a party wall F.820 of bricks (5738) with a plaster render (5876). Very little occupation deposits were excavated to reach formation horizon and these were heavily disturbed by erosion since the 1960s when the building was first exposed."""^^xsd:string .
+c:Building_92
+	rdf:type c:Building ;
+	rdfs:label "Building_92"^^xsd:string ;
+	c:hasBID "92"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Correlated to house E.VII.18, overlies Space 84.             The FT cuts through the southern portion of the house excavated as Building 92 defining two rooms Space 208 represents the larger room and Space 210 the smaller side room to the west."""^^xsd:string .
+c:Building_93
+	rdf:type c:Building ;
+	rdfs:label "Building_93"^^xsd:string ;
+	c:hasBID "93"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """The remains exposed to reach formation horizon comprised walls defining two rooms, Space 213 to the west and Space 285 to the east creating Building 93. All walls were bonded with wall F.1084 to the west; wall F.1085 to the south and a party wall F.1086. The eastern wall F.1107 was exposed at the base of stepped beam slot thereby linking these lower series of structures with the sequence excavated through the higher sequence to the east."""^^xsd:string .
+c:Building_94
+	rdf:type c:Building ;
+	rdfs:label "Building_94"^^xsd:string ;
+	c:hasBID "94"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_95
+	rdf:type c:Building ;
+	rdfs:label "Building_95"^^xsd:string ;
+	c:hasBID "95"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """TP.0"""^^xsd:string .
+c:Building_96
+	rdf:type c:Building ;
+	rdfs:label "Building_96"^^xsd:string ;
+	c:hasBID "96"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Contemporary with B.97 and B.76. For details of the space see space sheets."""^^xsd:string .
+c:Building_97
+	rdf:type c:Building ;
+	rdfs:label "Building_97"^^xsd:string ;
+	c:hasBID "97"^^xsd:integer ;
+	c:burnt "true"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_98
+	rdf:type c:Building ;
+	rdfs:label "Building_98"^^xsd:string ;
+	c:hasBID "98"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """The excavated part is probably the lower storey of B.98, having four internal buttresses (F.3326, 5052, 5053/5054, 5057) separating five spaces (450, 452, 449, 340, 341). Dimensions of B.98: 6.3m NS and 6.6m EW. Northeastern limit of B.98 not clear. Possibly two building phases extant; in the earlier phase, F.2428 and F.3324 might have adjoined and formed the northeast corner of the building. They might have been cut here later and F.3335, 3320 and 3321 added to open B.98 towards north. Space 446 might have been part of B.98 in the younger phase. Installations F.3334, 3328 and 3329 definitely are later additions within the building, as they are sitting on the fill in B.98. This fill is made up of disposed artefacts, organic wste and building materials. Areas with Installations or artefacts indicating original use were not yet reached."""^^xsd:string .
+c:Building_99
+	rdf:type c:Building ;
+	rdfs:label "Building_99"^^xsd:string ;
+	c:hasBID "99"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Defined below west storage room of B.77"""^^xsd:string .
+c:Building_100
+	rdf:type c:Building ;
+	rdfs:label "Building_100"^^xsd:string ;
+	c:hasBID "100"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """S/A E.VII.4. Eastern edge first recorded in 1995 as wall elevations only. South portion excavated as Sp.211 and small room to west in 2002 foundation trench, part of west wall traced in  west beam FT, north wall F. 1121 defined and allocated to Sp. 383"""^^xsd:string .
+c:Building_101
+	rdf:type c:Building ;
+	rdfs:label "Building_101"^^xsd:string ;
+	c:hasBID "101"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Largely unexcavated. Foundation Trenches 23-25 cut through Sps 28 and 63 which are part of same building, also incorporates unexcavated rooms Sp.64, Sp.62, Sp.27 all defined on 1993-4 Scrape Plan. Lies west of B.1. East 1/4 within 4040 shelter which may be excavated one day (SF 05/05/11)."""^^xsd:string .
+c:Building_102
+	rdf:type c:Building ;
+	rdfs:label "Building_102"^^xsd:string ;
+	c:hasBID "102"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Immediately north of B.3. Full extent still unknown. Not fully excavated."""^^xsd:string .
+c:Building_103
+	rdf:type c:Building ;
+	rdfs:label "Building_103"^^xsd:string ;
+	c:hasBID "103"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_104
+	rdf:type c:Building ;
+	rdfs:label "Building_104"^^xsd:string ;
+	c:hasBID "104"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """building defined by slumped wall F.3702 at north F. 3703 at west and F.3794 at east"""^^xsd:string .
+c:Building_105
+	rdf:type c:Building ;
+	rdfs:label "Building_105"^^xsd:string ;
+	c:hasBID "105"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """JMR 14.8.2011 EW 4.9m, NS 5.4; Building 105 is a building with many internal construction features, probably indicating several construction phases. Excavation of Building 105 is not yet finished, the lower and southern part remain unexcavated. Building 105 abuts B.106 in the east, B.107 in the north and a building limited by wall F.3345 in the south. Towards west, Building 105 might have cut or been cut by buildings containing walls F.3349 and/or F.3350."""^^xsd:string .
+c:Building_106
+	rdf:type c:Building ;
+	rdfs:label "Building_106"^^xsd:string ;
+	c:hasBID "106"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """JMR 14.8.2011 NS 4.3m, EW 4.1m; Building 106 is formed by spaces 310 and 454, it has a longish rectangular from, slightly irregular in the south (Space 454), Building 106 was built on top of older structures (Sp.453, Space 461) and built abutting other buildings: B.105 to the west, B.98 to the north, and building containing Space 345 to the east and another building bordered by wall F.3354 to the south."""^^xsd:string .
+c:Building_107
+	rdf:type c:Building ;
+	rdfs:label "Building_107"^^xsd:string ;
+	c:hasBID "107"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building 107 is limited by walls F.3344, F.2426, F.2425/5050 and F.5074. As the base levels of these walls are very different, it is unclear as to where a potential floor/walking surface might have been. The western buttress has not yet been identified, F.3356 is built from the same material as the othern features of the building, but its top level is below the base of the western wall F.3344. Building 107 was constructed on top of an older building (Sp.462) with its walls and buttresses having been constructed directly on top of the features surrounding the Space 462, except for F.3344, which is sitting on very homogeneous fill on top of an unknown fill or construction feature (not yet fully excavated). Building 107 was built abutting Building 98 in the east, Building 105 in the south, and a building bordered by F.2429 to the north. It is not yet clear what was west of it. Its dimensions are NS 4.5m, EW 4.7m."""^^xsd:string .
+c:Building_108
+	rdf:type c:Building ;
+	rdfs:label "Building_108"^^xsd:string ;
+	c:hasBID "108"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Eroded building within the North Shelter. No features left, although a few burials are associated with Sp.84. Began excavation in 2012. Not fully excavated."""^^xsd:string .
+c:Building_109
+	rdf:type c:Building ;
+	rdfs:label "Building_109"^^xsd:string ;
+	c:hasBID "109"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """this is the youngest building in the sequence of the Trench 1 TPC. It is badly preserved, only two parts of walls (N-E) and (S-W) remained."""^^xsd:string .
+c:Building_110
+	rdf:type c:Building ;
+	rdfs:label "Building_110"^^xsd:string ;
+	c:hasBID "110"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """this is the oldest building in the sequence of Trench1 TPC. It was marked on Mellaart's plan as Building 5 (level III)."""^^xsd:string .
+c:Building_112
+	rdf:type c:Building ;
+	rdfs:label "Building_112"^^xsd:string ;
+	c:hasBID "112"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_113
+	rdf:type c:Building ;
+	rdfs:label "Building_113"^^xsd:string ;
+	c:hasBID "113"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """
+2012
+Not fully excavated. 
+Evidence of burning. Largely eroded."""^^xsd:string .
+c:Building_114
+	rdf:type c:Building ;
+	rdfs:label "Building_114"^^xsd:string ;
+	c:hasBID "114"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Building number assigned in 2012, but not fully excavated and relationships need to made the following season."""^^xsd:string .
+c:Building_117
+	rdf:type c:Building ;
+	rdfs:label "Building_117"^^xsd:string ;
+	c:hasBID "117"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
+c:Building_118
+	rdf:type c:Building ;
+	rdfs:label "Building_118"^^xsd:string ;
+	c:hasBID "118"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """This building was originally numbered by Mellaart as House 25 (Level XII). The house as currently exposed contains one known space (Sp.510), which has been badly preserved on its northern side, partly by erosion, and partly by aggressive excavation in the 1960's. NFE at the end of excavation 2013. Extends below the southern section, so not clear if ALL spaces are exposed yet. For now see discussion and sketch on sheet for Space 510."""^^xsd:string .
+c:Building_119
+	rdf:type c:Building ;
+	rdfs:label "Building_119"^^xsd:string ;
+	c:hasBID "119"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """It located eastern side of B.5, and the western side of B.102. Also it's located the northwestern side of B.3."""^^xsd:string .
+c:Building_120
+	rdf:type c:Building ;
+	rdfs:label "Building_120"^^xsd:string ;
+	c:hasBID "120"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """This building was constructed during or before the Roman occupation of this area, but after the Chalcolithic. It was built into the area created by terracing cut [30229], which has been dug into Neolithic mud-brick material. It extends beyond the S edge of TPC trench 3, but is bounded within the trench by 3 walls: f.3948, f.3984, and f.7150. It contains three bins-- plastered at the bottom and containing burned deposits consisting only of ash and charcoal. The bins were built in succession, and the most likely earliest one (f.7152) is the deepest, suggesting that the use of these bins may have involved scooping from them and deepening over time, or they were systematically emptied after use. All of the features in this building, including all bins, walls, and the floor, show signs of having been plastered. 4 complete vessels were found in situ on the floor of the building (in u.30246). Also noteworthy is the number of roof finial sfound in wall f. 7150. See space sheet (509) for a sketch of the building's features. A 3D model was also created for this building on 14/07/13. The function, we hypothesize to be a kind of storeroom as it contains three plastered bins but its builders did not appear to spend very much time establishing a flat floor (it slopes up toward the east) and it does not seem like a building meant for elaborate display, rather a functional building. We found as well vessels used for shipping (see 30246.x3) and other large vessels (30246.x1 and 30246.x4); the shipping containers especially suggest this building played a role in trade and redistribution. The lack of ovens or hearths make the building unlikely to have been a domestic space, although extension of excavation to the south might alter this interpretation, and the haphazard style of construction is often characteristic of Iron Age houses in this area."""^^xsd:string .
+c:Building_121
+	rdf:type c:Building ;
+	rdfs:label "Building_121"^^xsd:string ;
+	c:hasBID "121"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """this is a buildi ng that was exposed in 2013 excavation season. It comprised the sequence of infills that were removed during the season, as well as floors and some features sitting on the floor. The Northern wall (7189) was identified and the Eastern wall on which a wall painintg was discovered. The remaining walls of this building are outside the excavated area."""^^xsd:string .
+c:Building_122
+	rdf:type c:Building ;
+	rdfs:label "Building_122"^^xsd:string ;
+	c:hasBID "122"^^xsd:integer ;
+	c:burnt "true"^^xsd:boolean ;
+	c:description """This building represents one of the larger complexes that appear to be characteristic of the late periods of occupation at Çatalhöyük. It consists of two walls (f. 7171 and f. 7176) at the S edge-- although f. 3952 is built to f.7171 as well and may be considered part of this building. In TPC Trench 3, we have found 3 spaces which can all be considered interior. The plaster on the floors in sp. 517 and 521 lips up to the plaster on walls f. 7183 and f. 3981, respectively. Space 493 has four bins in Trench 3, two of which contain barley. The functions of the other two spaces is less clear, but two phases of floor have been found so far in sp. 517 (f. 7195 and f. 7257) and f. 7195 is likely associated with f. 7199 in sp. 521. This building seems to have been very communal, given the number of bins and the quantity of cereals found in sp. 493. If the N boundary of Trench 3 is excavated, we may better understand how these spaces interconnected-- although the possibility remains for a roof entrance to sp. 493, as well as the other two spaces."""^^xsd:string .
+c:Building_123
+	rdf:type c:Building ;
+	rdfs:label "Building_123"^^xsd:string ;
+	c:hasBID "123"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Partially exposed building in the Northern slope of the eastern mound where GT1 was excavated in 2013 to test the existence of an anomaly in the geophysical survey results attained in 2012. The building is only defined to its east by wall F.7311. Wall F.7310 seems to be bonded to F.7311 forming and internal division. The exposed walls of the building are plastered. The mud brick of the building is composed of a brown sandy clay loam. The building sits at a perfect N-S alignment.  B123 abutts B124. The mudbrick of the building is composed of a brown sandy clay loam."""^^xsd:string .
+c:Building_124
+	rdf:type c:Building ;
+	rdfs:label "Building_124"^^xsd:string ;
+	c:hasBID "124"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """Partially exposed building in the Northern slope of the eastern mound where GT1 was excavated in 2013 to test the existence of an anomaly in the geophysical survey results attained in 2012. The building defined so far has two rooms associated with it and sits on a perfect N-S alignment, similar to B.123. It is defined to its W by wall F.7132 and to its south by wall F.7314. The northern and eastern extent of the building is beyond the excavation limit. Impossible to assess the structure chronologically, as with B.123. The mud brick the building is made from made up of a dark grayish brown clay rich sediment."""^^xsd:string .
+c:Building_125
+	rdf:type c:Building ;
+	rdfs:label "Building_125"^^xsd:string ;
+	c:hasBID "125"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """JMR 26-08-2013:  B. 125 is under B. 98. Only parts of it were uncovered in a sondage under space 449 of B. 98. We only found one buttress F. 3387 with a small part of the adjacent wall. The features were surrounded by materials that had been heavily affected by fire and were orange, brown and black. F. 3387 seems to be preseverd only a few cm. Higher and the surrounding material might have formed a surface - it therefore seems the entire building was only preserved to a very limited height and covered with a few homogenous and nearly sterile layers that we found in the sondage."""^^xsd:string .
+c:Building_126
+	rdf:type c:Building ;
+	rdfs:label "Building_126"^^xsd:string ;
+	c:hasBID "126"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """JMR 26-08-2013:  Space 345 of B. 126 had been known and investigated since 2008, finding two floors in 2012. In 2013, topsoil was cleared to find the southern space 525 of the building, whose walls were defined, but whose fill remains unexcavated."""^^xsd:string .
+c:Building_127
+	rdf:type c:Building ;
+	rdfs:label "Building_127"^^xsd:string ;
+	c:hasBID "127"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """JMR 26-08-2013:  Space 448 had shortly been investigated in 2010, but without finding the buttresses or clear outlines of the northern wall, which were defined y further excavation in 2013 after which the space could be identified as a building. F. 3324 is also the eastern wall of B. 98 and a cob wall (as are the other walls in B. 98), while all other features in B. 127 are made with mortar and brick and might postdate F. 3324. The eastern part, and the lower part of the building remain unexcavated."""^^xsd:string .
+c:Building_370
+	rdf:type c:Building ;
+	rdfs:label "Building_370"^^xsd:string ;
+	c:hasBID "370"^^xsd:integer ;
+	c:burnt "false"^^xsd:boolean ;
+	c:description """"""^^xsd:string .
