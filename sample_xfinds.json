@@ -69,21 +69,11 @@
             "type": "Feature",
             "geometry": {
                 "type": "MultiPoint",
-                "coordinates": [
-<<<<<<< HEAD
+                "coordinates":
                     [ 32.828381527, 37.667331357 ]
-=======
-                    [
-                        32.828381527,
-                        37.667331357,
-                        1011.21
-                    ]
->>>>>>> FETCH_HEAD
-                ]
             },
             "properties": {
                 "rdf:type": "catal:Xfind",
-<<<<<<< HEAD
                 "catal_p:gid": "10001.x1",
                 "catal_p:uid": 10001,
                 "cata_pl:sid": 1000,
