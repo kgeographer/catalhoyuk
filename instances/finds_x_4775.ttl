@@ -334,7 +334,7 @@ A number of shallow pits were dug into these floors at various levels. Most were
 
 Excavation of floors 1-5 was completed in 1999, except for the bulks that were photoed and drawn in 2000 and excavated. Floors 5-10 were excavated in the north part in 1999 and completed in 2000.
 
-Photo numbers: 2000 T 124.19-29 central \"room\" floors (use) fine non-diagnostic"^^xsd:string ; 
+Photo numbers: 2000 T 124.19-29 central \"room\" floors (use) fine non-diagnostic"^^xsd:string ; 
   c:typeText "clay figurine"^^xsd:string . 
 c:Find_16736.X3
   rdf:type c:XFind ; 
@@ -2264,8 +2264,8 @@ c:Find_15232.X3
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled fine  clay dark gray single 10 YR 4/1 baked fine to medium small rare Finely modelled curved horn broken at both ends fragment (<50%) intact CH: FG5 figural Lower Alluvium"^^xsd:string ; 
-  c:typeText "clay zoomorphic figurine (fragment (<50%))"^^xsd:string . 
+  c:description "hand-modelled fine  clay dark gray single 10 YR 4/1 baked fine to medium small rare Finely modelled curved horn broken at both ends fragment (<50%) intact CH: FG5 figural Lower Alluvium"^^xsd:string ; 
+  c:typeText "clay zoomorphic figurine (fragment (<50%))"^^xsd:string . 
 c:Find_1052.X1
   rdf:type c:XFind ; 
   c:hasGID "1052.X1"^^xsd:string ;
@@ -7646,7 +7646,7 @@ c:Find_12640.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate clay dark gray single 2.5 Y 4/1 fine small to medium sparse some kind of quadruped, but too worn and fragmentary to tell orientation; red staining present, breaks are worn fragment (>50%) intact, damaged CH: FG4 pit/scoop fill figural Upper Alluvium"^^xsd:string ; 
+  c:description "hand-modelled moderate clay dark gray single 2.5 Y 4/1 fine small to medium sparse some kind of quadruped, but too worn and fragmentary to tell orientation; red staining present, breaks are worn fragment (>50%) intact, damaged CH: FG4 pit/scoop fill figural Upper Alluvium"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine (fragment (>50%))"^^xsd:string . 
 c:Find_14019.X62
   rdf:type c:XFind ; 
@@ -10691,7 +10691,7 @@ Fill also contained x2, a highly important Mother Goddess figurine. As this fill
 
 
 
-Figurine x2 is envanter 3. burial fill from sex features
+Figurine x2 is envanter 3. burial fill from sex features
 from form figural"^^xsd:string ; 
   c:typeText "speleothem anthropomorphic figurine (complete)"^^xsd:string . 
 c:Find_1051.X1
@@ -10732,7 +10732,7 @@ Wall is built of 2 main types of bricks (see section 41 96/133 (1) and (3)). Typ
 
 
 
-Wall also recorded as unit 1515. wall fill figural"^^xsd:string ; 
+Wall also recorded as unit 1515. wall fill figural"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine (nearly complete)"^^xsd:string . 
 c:Find_11015.X1
   rdf:type c:XFind ; 
@@ -10922,7 +10922,7 @@ c:Find_8165.X4
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled and tooled coarse clay irregular worked and shaped clay piece complete intact, damaged VII-VI basin construction/make-up non-diagnostic"^^xsd:string ; 
+  c:description "hand-modelled and tooled coarse clay irregular worked and shaped clay piece complete intact, damaged VII-VI basin construction/make-up non-diagnostic"^^xsd:string ; 
   c:typeText "clay figurine (complete)"^^xsd:string . 
 c:Find_7311.X2
   rdf:type c:XFind ; 
@@ -11582,7 +11582,7 @@ c:Find_7825.X2
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled fine clay Roman Roman light brownish gray single 10 YR 6/3 well baked medium small to large sparse Bird figure with incised circular eyes and slashes on wings and circles on chest. The figure appears to be burnished on top. nearly complete intact, damaged Konya 10 YR 5/2 Secondary This was a large pit. Its N and E boundaries were very clear because the sediment in this part was very loose. Towards S and W it became more diffuse and compact and this boundary was not clear. In W part the sediment was more ashy, loose layered. Pieces of pottery found there were much bigger than in other parts of the unit. IT is not clear whether we were dealing with one pit, and that is why I decided to stop the exploration at this level although it was not the bottom of the pit. pit activity figural"^^xsd:string ; 
+  c:description "hand-modelled fine clay Roman Roman light brownish gray single 10 YR 6/3 well baked medium small to large sparse Bird figure with incised circular eyes and slashes on wings and circles on chest. The figure appears to be burnished on top. nearly complete intact, damaged Konya 10 YR 5/2 Secondary This was a large pit. Its N and E boundaries were very clear because the sediment in this part was very loose. Towards S and W it became more diffuse and compact and this boundary was not clear. In W part the sediment was more ashy, loose layered. Pieces of pottery found there were much bigger than in other parts of the unit. IT is not clear whether we were dealing with one pit, and that is why I decided to stop the exploration at this level although it was not the bottom of the pit. pit activity figural"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine (nearly complete)"^^xsd:string . 
 c:Find_11738.X1
   rdf:type c:XFind ; 
@@ -16034,7 +16034,7 @@ c:Find_14304.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "clay dark grayish brown 10 YR 4/2 fragment broken VI- CH: FG4 pit/scoop fill non-diagnostic"^^xsd:string ; 
+  c:description "clay dark grayish brown 10 YR 4/2 fragment broken VI- CH: FG4 pit/scoop fill non-diagnostic"^^xsd:string ; 
   c:typeText "clay figurine (fragment)"^^xsd:string . 
 c:Find_11324.X2
   rdf:type c:XFind ; 
@@ -16898,7 +16898,7 @@ The NW corner of this platform is always characterised by the same powdery plast
 
 In 2000 floor #2 was removed - white plaster with white packing underneath. Edges were taken off separately.
 
-Three micromorphology samples were taken from the western side of the burial cut. burialplatform construction/make-up/packing fine figural Lower Alluvium"^^xsd:string ; 
+Three micromorphology samples were taken from the western side of the burial cut. burialplatform construction/make-up/packing fine figural Lower Alluvium"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine (nearly complete)"^^xsd:string . 
 c:Find_15289.X1
   rdf:type c:XFind ; 
@@ -17470,7 +17470,7 @@ c:Find_8821.X1
   c:tableName "fig_main"^^xsd:string ; 
   c:description "hand-modelled coarse single clay Neolithic Neolithic light brownish gray single 10 YR 6/2 lightly baked medium to coarse medium common fragment of shaped clay, appears to be the roughly cylindrical base of a figure; the base tapers up into a roughly triangular torso/neck ; break is worn. fragment (<50%) intact CH: FG3 10 YR 6/2 Secondary Probable Neolithic burial; yellow ocra was found around the rib cage. Some beads may be intrusive from F.1242. Individual burial of Neolithic date. The beads found within the fill probably derive from the burial directly above rather than being associated with skeleton 8821. Yellow acre was found around the torso region and the bdy may have been lying on a mat since a layer of phytliths was below the skeleton.
 
-These characteristics probably and the position of the skeleton indicate that the burial was probably Neolithic. burial skeleton figural"^^xsd:string ; 
+These characteristics probably and the position of the skeleton indicate that the burial was probably Neolithic. burial skeleton figural"^^xsd:string ; 
   c:typeText "clay abbreviated figurine (fragment (<50%))"^^xsd:string . 
 c:Find_11481.X1
   rdf:type c:XFind ; 
@@ -18950,7 +18950,7 @@ c:Find_11854.X2
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate clay dark gray-very dark gray single 10 YR 4/1-3/1 medium baked fine headless figure with dowel hole for attachable head--imprint of attached head is visible. roughly modelled, both arms are broken off just below shoulders. front, sides and back have a sheen from handling? both stubb legs are intact and rear sticks out and down sharply. nearly complete intact, damaged Konya: etudluk pit figural"^^xsd:string ; 
+  c:description "hand-modelled moderate clay dark gray-very dark gray single 10 YR 4/1-3/1 medium baked fine headless figure with dowel hole for attachable head--imprint of attached head is visible. roughly modelled, both arms are broken off just below shoulders. front, sides and back have a sheen from handling? both stubb legs are intact and rear sticks out and down sharply. nearly complete intact, damaged Konya: etudluk pit figural"^^xsd:string ; 
   c:typeText "clay anthropomorphic figurine (nearly complete)"^^xsd:string . 
 c:Find_12519.X14
   rdf:type c:XFind ; 
@@ -19140,8 +19140,8 @@ c:Find_15400.X11
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate to coarse  clay gray single 7.5  YR 5/1 uneven medium small sparse Lower body of a quadruped that has been flattened lengthwise with thumb/finger impression on right side of body; puncture marks on top R and L sides of torso going into body One puncture on underside of belly goes all the way through the figurine. Gouge mark on L side looks to be from a trowel rather than when the figurine was made. Broken through upper torso just above what appears to the front legs. There is a possible ridge depicted on the back, but it is slightly off-center (perhaps due to deformation?)Modeled on the left hand on left side as we have noted as a pattern with the zoo figs fragment (>50%) broken CH: FG5 figural Upper Alluvium"^^xsd:string ; 
-  c:typeText "clay zoomorphic figurine (fragment (>50%))"^^xsd:string . 
+  c:description "hand-modelled moderate to coarse  clay gray single 7.5  YR 5/1 uneven medium small sparse Lower body of a quadruped that has been flattened lengthwise with thumb/finger impression on right side of body; puncture marks on top R and L sides of torso going into body One puncture on underside of belly goes all the way through the figurine. Gouge mark on L side looks to be from a trowel rather than when the figurine was made. Broken through upper torso just above what appears to the front legs. There is a possible ridge depicted on the back, but it is slightly off-center (perhaps due to deformation?)Modeled on the left hand on left side as we have noted as a pattern with the zoo figs fragment (>50%) broken CH: FG5 figural Upper Alluvium"^^xsd:string ; 
+  c:typeText "clay zoomorphic figurine (fragment (>50%))"^^xsd:string . 
 c:Find_15400.X12
   rdf:type c:XFind ; 
   c:hasGID "15400.X12"^^xsd:string ;
@@ -22311,7 +22311,7 @@ c:Find_12514.X3
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled fine to moderate clay dark gray single 2.5 Y 4/1 burnt fine small to large common cattle head with right horn intact, left missing. unclear whether it was modeled just as a head or as part of a quadruped figure. the 'break spot' is well-worn, much more so than the break at the horn.  nearly complete intact, damaged VI- Konya: etudluk pit/scoop midden figural Lower Alluvium"^^xsd:string ; 
+  c:description "hand-modelled fine to moderate clay dark gray single 2.5 Y 4/1 burnt fine small to large common cattle head with right horn intact, left missing. unclear whether it was modeled just as a head or as part of a quadruped figure. the 'break spot' is well-worn, much more so than the break at the horn.  nearly complete intact, damaged VI- Konya: etudluk pit/scoop midden figural Lower Alluvium"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine (nearly complete)"^^xsd:string . 
 c:Find_16479.X2
   rdf:type c:XFind ; 
@@ -22361,7 +22361,7 @@ c:Find_12552.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled fine clay dark gray single 10 YR 4/1 thin abbreviated figure on footed (conical) base fragment (>50%) intact, damaged VI- CH: FG4 burial fill figural"^^xsd:string ; 
+  c:description "hand-modelled fine clay dark gray single 10 YR 4/1 thin abbreviated figure on footed (conical) base fragment (>50%) intact, damaged VI- CH: FG4 burial fill figural"^^xsd:string ; 
   c:typeText "clay abbreviated figurine (fragment (>50%))"^^xsd:string . 
 c:Find_11923.X6
   rdf:type c:XFind ; 
@@ -34363,7 +34363,7 @@ c:Find_12511.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled fine to moderate clay dark gray single 10 YR 4/1 fine thin abbreviated figure on base wth triangular pinched nose/face. top of head s chipped; base has two vertical incised marks where feet/legs would be complete intact, damaged VI- 10 YR 4/1 pit/scoop midden figural"^^xsd:string ; 
+  c:description "hand-modelled fine to moderate clay dark gray single 10 YR 4/1 fine thin abbreviated figure on base wth triangular pinched nose/face. top of head s chipped; base has two vertical incised marks where feet/legs would be complete intact, damaged VI- 10 YR 4/1 pit/scoop midden figural"^^xsd:string ; 
   c:typeText "clay abbreviated figurine (complete)"^^xsd:string . 
 c:Find_19304.X12
   rdf:type c:XFind ; 
@@ -36018,7 +36018,7 @@ c:Find_12514.X2
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate clay dark gray single 10 YR 4/1 fine base fragment of abbreviated figure, but shape is slightly unusual--ovular but gently faceted (four sides) fragment (<50%) intact VI- Konya: etudluk pit/scoop midden figural"^^xsd:string ; 
+  c:description "hand-modelled moderate clay dark gray single 10 YR 4/1 fine base fragment of abbreviated figure, but shape is slightly unusual--ovular but gently faceted (four sides) fragment (<50%) intact VI- Konya: etudluk pit/scoop midden figural"^^xsd:string ; 
   c:typeText "clay abbreviated figurine (fragment (<50%))"^^xsd:string . 
 c:Find_15279.X6
   rdf:type c:XFind ; 
@@ -36116,7 +36116,7 @@ nsh 17.8:
 
 Party wall between space 108 &107, one brick thick and plastered on both faces. Broken at N end by opening 55 which seems to be original, & was later blocked up. Therefore this wall is  in 2 parts, the major one to the S, a tiny part at N.
 
-Lower construction may be in situ creation of foundation bricks. Superstructure seems to be one brick type & one mortar type, though the upper courses may include the base of rebuilds. Many samples taken may change this view. I was not present when lowest course was removed. wall midden fine figural"^^xsd:string ; 
+Lower construction may be in situ creation of foundation bricks. Superstructure seems to be one brick type & one mortar type, though the upper courses may include the base of rebuilds. Many samples taken may change this view. I was not present when lowest course was removed. wall midden fine figural"^^xsd:string ; 
   c:typeText "clay abbreviated figurine"^^xsd:string . 
 c:Find_11923.X4
   rdf:type c:XFind ; 
@@ -36136,8 +36136,8 @@ c:Find_17401.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "   single    CH: FG5 figural"^^xsd:string ; 
-  c:typeText " figurine"^^xsd:string . 
+  c:description "   single    CH: FG5 figural"^^xsd:string ; 
+  c:typeText " figurine"^^xsd:string . 
 c:Find_17094.X5
   rdf:type c:XFind ; 
   c:hasGID "17094.X5"^^xsd:string ;
@@ -36756,7 +36756,7 @@ However, it's down in the photo log ( and maybe elsewhere ) as F550, so I've not
 
 
 
-NOT REALLY A FEATURE! 'room partition' construction/make-up/packing fine figural Marl"^^xsd:string ; 
+NOT REALLY A FEATURE! 'room partition' construction/make-up/packing fine figural Marl"^^xsd:string ; 
   c:typeText "marl zoomorphic figurine (fragment (>50%))"^^xsd:string . 
 c:Find_1813.X1
   rdf:type c:XFind ; 
@@ -36896,8 +36896,8 @@ c:Find_16113.X4
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate to coarse  clay dark gray single 2.5 Y 4/1 indeterminate medium small rare Somewhat ambiguous whether or not this is a head and snout or the lower body of a quadruped. If it is a head, it has breaks at the ears/horns, slight chip under the chin, and a break across the torso where it attaches to the body. Face is quite worn. fragment (<50%) intact CH: FG5 figural Lower Alluvium"^^xsd:string ; 
-  c:typeText "clay zoomorphic figurine (fragment (<50%))"^^xsd:string . 
+  c:description "hand-modelled moderate to coarse  clay dark gray single 2.5 Y 4/1 indeterminate medium small rare Somewhat ambiguous whether or not this is a head and snout or the lower body of a quadruped. If it is a head, it has breaks at the ears/horns, slight chip under the chin, and a break across the torso where it attaches to the body. Face is quite worn. fragment (<50%) intact CH: FG5 figural Lower Alluvium"^^xsd:string ; 
+  c:typeText "clay zoomorphic figurine (fragment (<50%))"^^xsd:string . 
 c:Find_13199.X1
   rdf:type c:XFind ; 
   c:hasGID "13199.X1"^^xsd:string ;
@@ -37026,8 +37026,8 @@ c:Find_15407.X2
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled fine to moderate  clay gray single 10 YR 5/1 indeterminate fine to medium small sparse Small abbreviated form with chips on both legs. Head is very worn and has very small earlike extensions and a nose. Would be slightly forward leaning if it could stand on its own; figure leans to the right. Probable fingernail impression where head/torso meets base. fragment (>50%) intact CH: FG5 from form figural Lower Alluvium"^^xsd:string ; 
-  c:typeText "clay abbreviated figurine (fragment (>50%))"^^xsd:string . 
+  c:description "hand-modelled fine to moderate  clay gray single 10 YR 5/1 indeterminate fine to medium small sparse Small abbreviated form with chips on both legs. Head is very worn and has very small earlike extensions and a nose. Would be slightly forward leaning if it could stand on its own; figure leans to the right. Probable fingernail impression where head/torso meets base. fragment (>50%) intact CH: FG5 from form figural Lower Alluvium"^^xsd:string ; 
+  c:typeText "clay abbreviated figurine (fragment (>50%))"^^xsd:string . 
 c:Find_11670.X4
   rdf:type c:XFind ; 
   c:hasGID "11670.X4"^^xsd:string ;
@@ -37766,7 +37766,7 @@ c:Find_12514.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate clay dark gray abbrev-zoo crossover 10 YR 4/1 fine small to large common vaguely abbreviated figure (no head/face) with flat 'footed' base; leans to the left complete intact, damaged VI- Konya: etudluk pit/scoop midden from form figural Lower Alluvium"^^xsd:string ; 
+  c:description "hand-modelled moderate clay dark gray abbrev-zoo crossover 10 YR 4/1 fine small to large common vaguely abbreviated figure (no head/face) with flat 'footed' base; leans to the left complete intact, damaged VI- Konya: etudluk pit/scoop midden from form figural Lower Alluvium"^^xsd:string ; 
   c:typeText "clay phallomorphic? figurine (complete)"^^xsd:string . 
 c:Find_12519.X13
   rdf:type c:XFind ; 
@@ -38069,7 +38069,7 @@ c:Find_1505.X2
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled fine marl grey single 2.5Y 7/1 light grey not bad broken both ends VIII CH: FG1 Contains cluster 1057 (see plan 96/124). On 18/8/96 1505 was restricted to a slot 1m wide just North of 975N, so 1507 needs renumbering! (Note that some material around1507 was removed as 1505 before the section was established. This was done when it was realised that the layers dipped significantly from East to West and a good deal of stratigraphy was being removed on the West side of space 106. The north wall of building 43 wall construction/make-up/packing fine figural"^^xsd:string ; 
+  c:description "hand-modelled fine marl grey single 2.5Y 7/1 light grey not bad broken both ends VIII CH: FG1 Contains cluster 1057 (see plan 96/124). On 18/8/96 1505 was restricted to a slot 1m wide just North of 975N, so 1507 needs renumbering! (Note that some material around1507 was removed as 1505 before the section was established. This was done when it was realised that the layers dipped significantly from East to West and a good deal of stratigraphy was being removed on the West side of space 106. The north wall of building 43 wall construction/make-up/packing fine figural"^^xsd:string ; 
   c:typeText "marl zoomorphic figurine"^^xsd:string . 
 c:Find_15159.X8
   rdf:type c:XFind ; 
@@ -38119,8 +38119,8 @@ c:Find_15400.X20
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate  clay dark gray single 10 YR 4/1 indeterminate medium to coarse Atypical abbreviated form; flat triangular head on thick, squat cylindrical base with no legs. Head with pinched nose is very small relative to body. Figurine leans slightly to its right and quite a bit backwards. Figurine is very worn.  complete intact CH: FG5 figural Lower Alluvium"^^xsd:string ; 
-  c:typeText "clay abbreviated figurine (complete)"^^xsd:string . 
+  c:description "hand-modelled moderate  clay dark gray single 10 YR 4/1 indeterminate medium to coarse Atypical abbreviated form; flat triangular head on thick, squat cylindrical base with no legs. Head with pinched nose is very small relative to body. Figurine leans slightly to its right and quite a bit backwards. Figurine is very worn.  complete intact CH: FG5 figural Lower Alluvium"^^xsd:string ; 
+  c:typeText "clay abbreviated figurine (complete)"^^xsd:string . 
 c:Find_6201.X2
   rdf:type c:XFind ; 
   c:hasGID "6201.X2"^^xsd:string ;
@@ -38433,7 +38433,7 @@ N.B. The two children are most probably buried at the same time.
 
 By 2001 the large cut has been divided into three features. F. 756 refers now to the southernmost one. The cut was probably separate from the almost contemporary cut  - F. 648, and the slightly later burial F. 757.
 
-The burial in F. 756 was excavated at the end of the main season in 2000. burial quite fine, slightly sandy? figural"^^xsd:string ; 
+The burial in F. 756 was excavated at the end of the main season in 2000. burial quite fine, slightly sandy? figural"^^xsd:string ; 
   c:typeText "abbreviated figurine"^^xsd:string . 
 c:Find_16483.X8
   rdf:type c:XFind ; 
@@ -38969,7 +38969,7 @@ c:Find_4965.X1
   c:tableName "fig_main"^^xsd:string ; 
   c:description "hand-modelled moderate to coarse clay Neolithic Neolithic light grey, burnt dark on L, interior beige single fragment (>50%) intact X Konya This context number is belong to the last edge of F521. It is northern of (4950) They are like party (?)
 
-edges. I found an animal figürine (headless) . It was in the plaster.. bin construction/make-up/packing fine figural"^^xsd:string ; 
+edges. I found an animal figürine (headless) . It was in the plaster.. bin construction/make-up/packing fine figural"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine (fragment (>50%))"^^xsd:string . 
 c:Find_8518.X1
   rdf:type c:XFind ; 
@@ -39129,8 +39129,8 @@ c:Find_15400.X28
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate  clay dark gray single 10 YR 4/1 indeterminate medium medium rare Could be fragment of a straight horn, but is very uniform and cylindrical. Could also be just a shaped piece of clay. Close to one end are a set of ridges in the clay that may or may not be intentional. fragment (<50%) intact CH: FG5 non-diagnostic Lower Alluvium"^^xsd:string ; 
-  c:typeText "clay zoomorphic figurine (fragment (<50%))"^^xsd:string . 
+  c:description "hand-modelled moderate  clay dark gray single 10 YR 4/1 indeterminate medium medium rare Could be fragment of a straight horn, but is very uniform and cylindrical. Could also be just a shaped piece of clay. Close to one end are a set of ridges in the clay that may or may not be intentional. fragment (<50%) intact CH: FG5 non-diagnostic Lower Alluvium"^^xsd:string ; 
+  c:typeText "clay zoomorphic figurine (fragment (<50%))"^^xsd:string . 
 c:Find_9030.X5
   rdf:type c:XFind ; 
   c:hasGID "9030.X5"^^xsd:string ;
@@ -40825,7 +40825,7 @@ c:Find_10663.X1
 
 
 
-platform slumping into possible building below.  This platform and its surfaces are badly diturbed and the surfaces have become detached from the surrounding wall and surfaces within the SW of building 44. platform construction/make-up/packing figural"^^xsd:string ; 
+platform slumping into possible building below.  This platform and its surfaces are badly diturbed and the surfaces have become detached from the surrounding wall and surfaces within the SW of building 44. platform construction/make-up/packing figural"^^xsd:string ; 
   c:typeText "clay anthropomorphic figurine (fragment (<50%))"^^xsd:string . 
 c:Find_1097.X3
   rdf:type c:XFind ; 
@@ -41035,7 +41035,7 @@ c:Find_13140.X9
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled fine to moderate clay light brownish gray-gray single 2.5 Y 6/2-5/1 cleanfine appears to be a head fragment of a human figure; diffcult to make out which part of head, probably an ear, which is incised on both sides (asymmetrically); there are some thin shallow incised lines just in front of 'ear' on one side fragment (<50%) intact VI- Konya: etudluk 2.5 Y 6/3 pit/scoop midden figural"^^xsd:string ; 
+  c:description "hand-modelled fine to moderate clay light brownish gray-gray single 2.5 Y 6/2-5/1 cleanfine appears to be a head fragment of a human figure; diffcult to make out which part of head, probably an ear, which is incised on both sides (asymmetrically); there are some thin shallow incised lines just in front of 'ear' on one side fragment (<50%) intact VI- Konya: etudluk 2.5 Y 6/3 pit/scoop midden figural"^^xsd:string ; 
   c:typeText "clay anthropomorphic figurine (fragment (<50%))"^^xsd:string . 
 c:Find_12597.X1
   rdf:type c:XFind ; 
@@ -44093,7 +44093,7 @@ c:Find_8770.X4
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "found/selected? moderate single stone, pebble Neolithic Neolithic gray 10 YR 5/1 tiny worked/modified? stone object, roughly shaped like a truncated pyramid but v. irregular; grooved just above slightly lipped base complete intact CH: FG3 Fill of burial F.1235 Neolithic burial with preserved textile burial non-diagnostic"^^xsd:string ; 
+  c:description "found/selected? moderate single stone, pebble Neolithic Neolithic gray 10 YR 5/1 tiny worked/modified? stone object, roughly shaped like a truncated pyramid but v. irregular; grooved just above slightly lipped base complete intact CH: FG3 Fill of burial F.1235 Neolithic burial with preserved textile burial non-diagnostic"^^xsd:string ; 
   c:typeText "stone, pebble figurine (complete)"^^xsd:string . 
 c:Find_8795.X3
   rdf:type c:XFind ; 
@@ -44147,7 +44147,7 @@ There was a brick in the middle of the platform which divides the platform two p
 
 Feature 1554 is set against the corner of wall 10232 and on top of floors 10243
 
-  Doru platform cluster figural"^^xsd:string ; 
+  Doru platform cluster figural"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine (fragment (<50%))"^^xsd:string . 
 c:Find_11366.X9
   rdf:type c:XFind ; 
@@ -44219,7 +44219,7 @@ c:Find_13230.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled coarse clay gray single 10 YR 6/1 could be the leg of a quadruped, damaged, some interpreted it as a face, though this resemblance undoubtedly due to the breaks. It was fund tucked into a space at the base of a wall and filled, then plastered. fragment broken IV-III CH: FG4 floor construction/make-up/packing figural"^^xsd:string ; 
+  c:description "hand-modelled coarse clay gray single 10 YR 6/1 could be the leg of a quadruped, damaged, some interpreted it as a face, though this resemblance undoubtedly due to the breaks. It was fund tucked into a space at the base of a wall and filled, then plastered. fragment broken IV-III CH: FG4 floor construction/make-up/packing figural"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine (fragment)"^^xsd:string . 
 c:Find_13701.X1
   rdf:type c:XFind ; 
@@ -44271,7 +44271,7 @@ c:Find_1444.X1
   c:tableName "fig_main"^^xsd:string ; 
   c:description "hand-modelled fine clay mid-brown/grey single 10YR 5/1-5/2 gray-grayish brown curved horn, more eroded at tip end than base broken both ends, slightly eroded VII-VI CH: FG1 Removal of southern half of FI11- its walls, and floors following taking of micro blocks, drawing of section etc. FI is sitting on top of this white plaster floor with traces of red paint. Thin section of white plaster on wall face behind FI walls- contemporary with floors under FI. So FI is not put in as soon as building is constructed, but after laying of white floor first. Originally excavated as F11 this has now been seperated into three phases of which this is the earliest
 
-See F11 for detailed comments fire installation floors (use) fine figural"^^xsd:string ; 
+See F11 for detailed comments fire installation floors (use) fine figural"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine"^^xsd:string . 
 c:Find_4624.X1
   rdf:type c:XFind ; 
@@ -44291,8 +44291,8 @@ c:Find_14997.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate  clay light brown single 7.5  YR 6/3 baked medium small common Nearly complete quadruped figure with tail, covered in plaster dust. Entire L rear leg is missing, with both front legs somewhat chipped and very worn. The head and face are extremely worn; the head shape and tail suggests this was possibly a dog. Bottom of face is chipped. nearly complete intact, damaged CH: FG5 figural upper LA"^^xsd:string ; 
-  c:typeText "clay zoomorphic figurine (nearly complete)"^^xsd:string . 
+  c:description "hand-modelled moderate  clay light brown single 7.5  YR 6/3 baked medium small common Nearly complete quadruped figure with tail, covered in plaster dust. Entire L rear leg is missing, with both front legs somewhat chipped and very worn. The head and face are extremely worn; the head shape and tail suggests this was possibly a dog. Bottom of face is chipped. nearly complete intact, damaged CH: FG5 figural upper LA"^^xsd:string ; 
+  c:typeText "clay zoomorphic figurine (nearly complete)"^^xsd:string . 
 c:Find_15160.X23
   rdf:type c:XFind ; 
   c:hasGID "15160.X23"^^xsd:string ;
@@ -44422,8 +44422,8 @@ c:Find_16233.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate  clay pale brown single 10 YR 6/3 baked medium small to medium sparse Small boar figurine with ridge along its back and breakages at front legs and rear L leg, and at neck. R front leg has broken off but is present. At base of neck is a fingernail impression fragment (>50%) broken CH: FG5 figural Marl"^^xsd:string ; 
-  c:typeText "clay zoomorphic figurine (fragment (>50%))"^^xsd:string . 
+  c:description "hand-modelled moderate  clay pale brown single 10 YR 6/3 baked medium small to medium sparse Small boar figurine with ridge along its back and breakages at front legs and rear L leg, and at neck. R front leg has broken off but is present. At base of neck is a fingernail impression fragment (>50%) broken CH: FG5 figural Marl"^^xsd:string ; 
+  c:typeText "clay zoomorphic figurine (fragment (>50%))"^^xsd:string . 
 c:Find_1624.X1
   rdf:type c:XFind ; 
   c:hasGID "1624.X1"^^xsd:string ;
@@ -44744,7 +44744,7 @@ c:Find_4389.X1
   c:findClass "Figurine"^^xsd:string ;
   c:studiedBy c:Figurines_team ;
   c:tableName "fig_main"^^xsd:string ; 
-  c:description "hand-modelled moderate clay Neolithic Neolithic light-dark grey single fragment (>50%) VII Konya NB X.1 was found in mortar layer. wall construction/make-up/packing mod fine, occ sm min incl figural"^^xsd:string ; 
+  c:description "hand-modelled moderate clay Neolithic Neolithic light-dark grey single fragment (>50%) VII Konya NB X.1 was found in mortar layer. wall construction/make-up/packing mod fine, occ sm min incl figural"^^xsd:string ; 
   c:typeText "clay zoomorphic figurine (fragment (>50%))"^^xsd:string . 
 c:Find_8615.X2
   rdf:type c:XFind ; 

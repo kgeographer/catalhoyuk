@@ -1,3 +1,7 @@
+@prefix c: <http://catalhoyuk.stanford.edu/onto/catal#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 c:Space_1
 	rdf:type c:Space ;
 	rdfs:label "Space_1"^^xsd:string ;
