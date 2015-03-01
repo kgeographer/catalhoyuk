@@ -72,7 +72,7 @@
             },
             "properties": {
                 "rdf:type": "catal:Xfind",
-                "gid": "10001.x1",
+                "c:hasGid": "10001.x1",
                 "c:within": ["c:u.10001", "c:sp.1000"],
                 "c:hodder_level":"c:4040.Unknown",
                 "c:stage": 0,
@@ -88,7 +88,7 @@
                 {   "id": "c:4040.?G",
                     "label": "Hodder level 4040.?G",
                     "tSpanType": "periodArray",
-                    "tSpans": [{"s": "-6500", "e": "-6400", "during": true}],
+                    "tSpans": [{"s": "-6500", "e": "-6400"}],
                     "class": "c:hodder_level",
                     "src": "c:mssql_database",
                     "properties": {
